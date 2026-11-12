@@ -213,3 +213,25 @@
     font-size: 10px;
   }
 }
+
+.sculpture {
+  display: grid;
+  place-items: center;
+  width: 100%;
+  transform: rotate(-16deg);
+}
+
+.sculpture-star {
+  display: block;
+  width: min(100%, 360px);
+  height: auto;
+  filter:
+    drop-shadow(9px 8px 0 #8b315a)
+    drop-shadow(8px 9px 0 #4f2137);
+}
+
+@media (max-width: 650px) {
+  .sculpture-star {
+    width: min(65vw, 220px);
+  }
+}
