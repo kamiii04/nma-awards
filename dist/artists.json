@@ -3,11 +3,12 @@
   "artists": [
     {
       "id": "artist-82major",
-      "name": "82메이저",
+      "name": "82MAJOR",
       "english": "82MAJOR",
       "aliases": [
         "82MAJOR",
-        "에이티투메이저"
+        "에이티투메이저",
+        "82메이저"
       ],
       "image": "",
       "source": "",

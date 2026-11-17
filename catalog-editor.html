@@ -5,7 +5,24 @@
 <h1>NMA <span>ARTIST MANAGER</span></h1>
 <p>운영자용 그룹 · 아티스트 · 멤버 목록 편집</p>
 <p class="note">사진 없이 이름만 등록할 수 있어요. 기존 항목의 <b>수정</b>을 눌러 나중에 사진을 넣으세요.<br>편집 후 <b>목록 파일 저장</b> → 프로젝트의 <b>dist/artists.json</b> 교체 → GitHub에 업로드하면 반영됩니다.<br>이 화면의 수정은 저장한 파일에만 적용되며 공개 사이트에 즉시 반영되지 않습니다.</p>
-<div class="tools"><button id="download">↓ 목록 파일 저장</button><button class="secondary" id="import-button">기존 목록 불러오기</button><input hidden id="import" type="file" accept="application/json,.json"></div>
+
+<div class="tools">
+  <button id="connect-file" type="button">
+    📁 프로젝트 JSON 연결
+  </button>
+
+  <button id="download" type="button">
+    ↓ 목록 파일 저장 (백업)
+  </button>
+
+  <button class="secondary" id="import-button" type="button">
+    기존 목록 불러오기
+  </button>
+
+  <input hidden id="import" type="file"
+    accept="application/json,.json">
+</div>
+
 <p id="status" role="status"></p>
 <div id="layout">
 <form id="form">
