@@ -1,0 +1,1708 @@
+[
+  {
+    "name": "데일리디렉션",
+    "english": "DAILY:DIRECTION",
+    "aliases": [
+      "데일리:디렉션",
+      "Daily Direction",
+      "D:D"
+    ],
+    "members": [
+      {
+        "name": "앤 킴",
+        "english": "EN KIM",
+        "aliases": [
+          "엔김",
+          "EN-KIM",
+          "김민수"
+        ]
+      },
+      {
+        "name": "김주형",
+        "english": "Kim Joo Hyoung",
+        "aliases": [
+          "Joohyoung"
+        ]
+      },
+      {
+        "name": "임지환",
+        "english": "Lim Ji Hwan",
+        "aliases": [
+          "Jihwan"
+        ]
+      },
+      {
+        "name": "이반",
+        "english": "E-VAN",
+        "aliases": [
+          "장유빈"
+        ]
+      },
+      {
+        "name": "이원우",
+        "english": "Lee Won Woo",
+        "aliases": [
+          "Wonwoo"
+        ]
+      },
+      {
+        "name": "장윤석",
+        "english": "Jang Yoon Seok",
+        "aliases": [
+          "Yoonseok"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4818155",
+      "https://weverse.io/dailydirection/highlight",
+      "https://www.etnews.com/20260125000022"
+    ]
+  },
+  {
+    "name": "키빗업",
+    "english": "KEYVITUP",
+    "aliases": [],
+    "members": [
+      {
+        "name": "태환",
+        "english": "TAEHWAN",
+        "aliases": []
+      },
+      {
+        "name": "현민",
+        "english": "HYUNMIN",
+        "aliases": []
+      },
+      {
+        "name": "세나",
+        "english": "SENA",
+        "aliases": []
+      },
+      {
+        "name": "재인",
+        "english": "JAEIN",
+        "aliases": []
+      },
+      {
+        "name": "루키아",
+        "english": "RUKIA",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://ssl.sme.co.jp/artist/KEYVITUP/profile/",
+      "https://www.melon.com/artist/detail.htm?artistId=4851397"
+    ]
+  },
+  {
+    "name": "유어즈",
+    "english": "YUHZ",
+    "aliases": [
+      "Your Hertz"
+    ],
+    "members": [
+      {
+        "name": "보현",
+        "english": "BOHYEON",
+        "aliases": []
+      },
+      {
+        "name": "효",
+        "english": "HYO",
+        "aliases": []
+      },
+      {
+        "name": "하루토",
+        "english": "HARUTO",
+        "aliases": []
+      },
+      {
+        "name": "준성",
+        "english": "JUNSEONG",
+        "aliases": []
+      },
+      {
+        "name": "재일",
+        "english": "JAEIL",
+        "aliases": []
+      },
+      {
+        "name": "카이",
+        "english": "KAI",
+        "aliases": []
+      },
+      {
+        "name": "연태",
+        "english": "YEONTAE",
+        "aliases": []
+      },
+      {
+        "name": "세찬",
+        "english": "SECHAN",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://danmee.jp/knews/k-pop/yuhz-interview/"
+    ]
+  },
+  {
+    "name": "튜넥스",
+    "english": "TUNEXX",
+    "aliases": [],
+    "members": [
+      {
+        "name": "동규",
+        "english": "Donggyu",
+        "aliases": [
+          "박동규"
+        ]
+      },
+      {
+        "name": "인후",
+        "english": "Inhu",
+        "aliases": [
+          "김인후"
+        ]
+      },
+      {
+        "name": "타이라",
+        "english": "Taira",
+        "aliases": []
+      },
+      {
+        "name": "성준",
+        "english": "Sungjun",
+        "aliases": [
+          "문성준"
+        ]
+      },
+      {
+        "name": "제온",
+        "english": "Zeon",
+        "aliases": []
+      },
+      {
+        "name": "시환",
+        "english": "Sihwan",
+        "aliases": [
+          "김시환"
+        ]
+      },
+      {
+        "name": "아틱",
+        "english": "Arctic",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://sports.khan.co.kr/en/article/202602030017007",
+      "https://soridata.com/en/members/TUNEXX.html"
+    ]
+  },
+  {
+    "name": "플레어유",
+    "english": "FLARE U",
+    "aliases": [
+      "플레어 유"
+    ],
+    "members": [
+      {
+        "name": "최립우",
+        "english": "CHUEI LI YU",
+        "aliases": [
+          "Chuei Liyu"
+        ]
+      },
+      {
+        "name": "강우진",
+        "english": "KANG WOO JIN",
+        "aliases": [
+          "Woojin"
+        ]
+      }
+    ],
+    "sources": [
+      "https://fncent.com/flareu"
+    ]
+  },
+  {
+    "name": "에이엔",
+    "english": "AEN",
+    "aliases": [],
+    "members": [
+      {
+        "name": "보민",
+        "english": "BOMIN",
+        "aliases": []
+      },
+      {
+        "name": "지용",
+        "english": "JIYONG",
+        "aliases": []
+      },
+      {
+        "name": "규현",
+        "english": "KYUHYUN",
+        "aliases": []
+      },
+      {
+        "name": "하루",
+        "english": "HARU",
+        "aliases": []
+      },
+      {
+        "name": "하루토",
+        "english": "HARUTO",
+        "aliases": []
+      },
+      {
+        "name": "준서",
+        "english": "JUNSEO",
+        "aliases": []
+      },
+      {
+        "name": "카이라",
+        "english": "KAIRA",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.soompi.com/article/1860658wpp/starship-entertainments-new-boy-group-aen-announces-official-fan-club-name",
+      "https://idol.daissu.co.kr/artist/official-aen"
+    ]
+  },
+  {
+    "name": "체이서",
+    "english": "CHASER",
+    "aliases": [],
+    "members": [
+      {
+        "name": "강빈",
+        "english": "Kangbin",
+        "aliases": []
+      },
+      {
+        "name": "케이스케",
+        "english": "Keisuke",
+        "aliases": []
+      },
+      {
+        "name": "렌",
+        "english": "Ren",
+        "aliases": []
+      },
+      {
+        "name": "윤성",
+        "english": "Yunseong",
+        "aliases": []
+      },
+      {
+        "name": "시훈",
+        "english": "Sihun",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://enews.imbc.com/News/RetrieveNewsInfo/495934",
+      "https://zh.wikipedia.org/wiki/CHASER"
+    ]
+  },
+  {
+    "name": "아이딧",
+    "english": "IDID",
+    "aliases": [],
+    "members": [
+      {
+        "name": "장용훈",
+        "english": "Jang Yong Hoon",
+        "aliases": [
+          "Yonghoon"
+        ]
+      },
+      {
+        "name": "김민재",
+        "english": "Kim Min Jae",
+        "aliases": [
+          "Minjae"
+        ]
+      },
+      {
+        "name": "박원빈",
+        "english": "Park Won Bin",
+        "aliases": [
+          "Wonbin"
+        ]
+      },
+      {
+        "name": "추유찬",
+        "english": "Chu Yoo Chan",
+        "aliases": [
+          "Yoochan"
+        ]
+      },
+      {
+        "name": "박성현",
+        "english": "Park Seong Hyeon",
+        "aliases": [
+          "Seonghyeon"
+        ]
+      },
+      {
+        "name": "백준혁",
+        "english": "Baek Jun Hyuk",
+        "aliases": [
+          "Junhyuk"
+        ]
+      },
+      {
+        "name": "정세민",
+        "english": "Jeong Se Min",
+        "aliases": [
+          "Semin"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4379610",
+      "https://en.wikipedia.org/wiki/Idid_%28group%29"
+    ]
+  },
+  {
+    "name": "아이덴티티",
+    "english": "idntt",
+    "aliases": [
+      "identity"
+    ],
+    "members": [
+      {
+        "name": "김도훈",
+        "english": "Kim DoHun",
+        "aliases": []
+      },
+      {
+        "name": "김희주",
+        "english": "Kim HeeJu",
+        "aliases": []
+      },
+      {
+        "name": "윤선재",
+        "english": "Yun SunJae",
+        "aliases": []
+      },
+      {
+        "name": "최태인",
+        "english": "Choi TaeIn",
+        "aliases": []
+      },
+      {
+        "name": "이재영",
+        "english": "Lee JaeYoung",
+        "aliases": []
+      },
+      {
+        "name": "김주호",
+        "english": "Kim JuHo",
+        "aliases": []
+      },
+      {
+        "name": "남지운",
+        "english": "Nam JiWoon",
+        "aliases": []
+      },
+      {
+        "name": "이환희",
+        "english": "Lee HwanHee",
+        "aliases": []
+      },
+      {
+        "name": "이청명",
+        "english": "Lee CheongMyeong",
+        "aliases": []
+      },
+      {
+        "name": "토와",
+        "english": "Towa",
+        "aliases": []
+      },
+      {
+        "name": "이규혁",
+        "english": "Lee KyuHyuk",
+        "aliases": []
+      },
+      {
+        "name": "박누리",
+        "english": "Park NuRi",
+        "aliases": []
+      },
+      {
+        "name": "김성준",
+        "english": "Kim SeongJun",
+        "aliases": []
+      },
+      {
+        "name": "한예준",
+        "english": "Han YeJoon",
+        "aliases": []
+      },
+      {
+        "name": "최경빈",
+        "english": "Choi GyeongBeen",
+        "aliases": []
+      },
+      {
+        "name": "황은수",
+        "english": "Hwang EunSoo",
+        "aliases": []
+      },
+      {
+        "name": "곽기웅",
+        "english": "Kwak GiWoong",
+        "aliases": [
+          "Kwak Kiwoong"
+        ]
+      },
+      {
+        "name": "이주헌",
+        "english": "Lee JooHeon",
+        "aliases": [
+          "Lee Juheon"
+        ]
+      },
+      {
+        "name": "양경호",
+        "english": "Yang GyungHo",
+        "aliases": [
+          "Yang Kyungho"
+        ]
+      },
+      {
+        "name": "조은찬",
+        "english": "Cho EunChan",
+        "aliases": [
+          "Jo Eunchan"
+        ]
+      },
+      {
+        "name": "김은성",
+        "english": "Kim EunSung",
+        "aliases": []
+      },
+      {
+        "name": "구도형",
+        "english": "Koo DoHyung",
+        "aliases": []
+      },
+      {
+        "name": "박경률",
+        "english": "Park GyeongRyul",
+        "aliases": []
+      },
+      {
+        "name": "김지후",
+        "english": "Kim JiHoo",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4460895",
+      "https://enter.etoday.co.kr/news/view/304829",
+      "https://idntt.fandom.com/wiki/Idntt",
+      "https://kpophq.de/gruppen/idntt/",
+      "https://vidiq.com/youtube-stats/channel/%40idntt_cosmo/videos/"
+    ]
+  },
+  {
+    "name": "베이온",
+    "english": "VAYONN",
+    "aliases": [
+      "VAY ONN"
+    ],
+    "members": [
+      {
+        "name": "마사토",
+        "english": "MASATO",
+        "aliases": []
+      },
+      {
+        "name": "센",
+        "english": "SEN",
+        "aliases": []
+      },
+      {
+        "name": "아양",
+        "english": "AYANG",
+        "aliases": [
+          "쑨지아양",
+          "Sun Jiayang"
+        ]
+      },
+      {
+        "name": "진위",
+        "english": "JINYU",
+        "aliases": [
+          "펑진위",
+          "Peng Jinyu"
+        ]
+      },
+      {
+        "name": "테루",
+        "english": "TERU",
+        "aliases": []
+      },
+      {
+        "name": "마노",
+        "english": "MANO",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://v.daum.net/v/20260601150916549",
+      "https://idol.daissu.co.kr/artist/official-vayonn"
+    ]
+  },
+  {
+    "name": "네이즈",
+    "english": "NAZE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "카이세이",
+        "english": "KAISEI",
+        "aliases": []
+      },
+      {
+        "name": "윤기",
+        "english": "YOUNKI",
+        "aliases": []
+      },
+      {
+        "name": "아토",
+        "english": "ATO",
+        "aliases": []
+      },
+      {
+        "name": "턴",
+        "english": "TURN",
+        "aliases": []
+      },
+      {
+        "name": "유야",
+        "english": "YUYA",
+        "aliases": []
+      },
+      {
+        "name": "김건",
+        "english": "KIMKUN",
+        "aliases": []
+      },
+      {
+        "name": "도혁",
+        "english": "DOHYEOK",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://naze-official.jp/profile",
+      "https://music.bugs.co.kr/artist/20259135"
+    ]
+  },
+  {
+    "name": "에이댑",
+    "english": "ADAP",
+    "aliases": [],
+    "members": [
+      {
+        "name": "효태",
+        "english": "HYOTAE",
+        "aliases": []
+      },
+      {
+        "name": "준석",
+        "english": "JUNSEOK",
+        "aliases": []
+      },
+      {
+        "name": "재영",
+        "english": "JAEYOUNG",
+        "aliases": []
+      },
+      {
+        "name": "도원",
+        "english": "DOWON",
+        "aliases": []
+      },
+      {
+        "name": "종호",
+        "english": "JONGHO",
+        "aliases": []
+      },
+      {
+        "name": "현성",
+        "english": "HYUNSUNG",
+        "aliases": [
+          "HYUNSEONG"
+        ]
+      }
+    ],
+    "sources": [
+      "https://enews.imbc.com/News/RetrieveNewsInfo/523597",
+      "https://kprofiles.com/adap-members-profile/"
+    ]
+  },
+  {
+    "name": "하입프린세스",
+    "english": "H//PE Princess",
+    "aliases": [
+      "HIIPE Princess",
+      "HYPE Princess",
+      "HPE Princess"
+    ],
+    "members": [
+      {
+        "name": "코코",
+        "english": "COCO",
+        "aliases": []
+      },
+      {
+        "name": "와이에스와이",
+        "english": "YSY",
+        "aliases": [
+          "윤서영"
+        ]
+      },
+      {
+        "name": "유주",
+        "english": "YUJU",
+        "aliases": [
+          "남유주"
+        ]
+      },
+      {
+        "name": "도이",
+        "english": "DOI",
+        "aliases": []
+      },
+      {
+        "name": "리노",
+        "english": "RINO",
+        "aliases": []
+      },
+      {
+        "name": "니코",
+        "english": "NIKO",
+        "aliases": []
+      },
+      {
+        "name": "수진",
+        "english": "SUJIN",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4928591",
+      "https://idol.daissu.co.kr/artist/wd-q140106482"
+    ]
+  },
+  {
+    "name": "언차일드",
+    "english": "UNCHILD",
+    "aliases": [],
+    "members": [
+      {
+        "name": "예은",
+        "english": "YEEUN",
+        "aliases": [
+          "박예은",
+          "Park Yeeun"
+        ]
+      },
+      {
+        "name": "히키",
+        "english": "HEEKIE",
+        "aliases": [
+          "변서영"
+        ]
+      },
+      {
+        "name": "티나",
+        "english": "TINA",
+        "aliases": []
+      },
+      {
+        "name": "아코",
+        "english": "AKO",
+        "aliases": []
+      },
+      {
+        "name": "이본",
+        "english": "EVON",
+        "aliases": [
+          "이지민"
+        ]
+      },
+      {
+        "name": "하은",
+        "english": "HAEUN",
+        "aliases": [
+          "나하은",
+          "Na Haeun"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.highup-ent.com/unchild/",
+      "https://enews.imbc.com/News/RetrieveNewsInfo/502392",
+      "https://fansupport.joelin.cc/en/group/unchild/"
+    ]
+  },
+  {
+    "name": "아워벌스데이",
+    "english": "OURBIRTHDAY",
+    "aliases": [
+      "Our Birthday"
+    ],
+    "members": [
+      {
+        "name": "국초록",
+        "english": "KUK CHOROK",
+        "aliases": []
+      },
+      {
+        "name": "신혜원",
+        "english": "SHIN HYEWON",
+        "aliases": []
+      },
+      {
+        "name": "조혜진",
+        "english": "CHO HYEJIN",
+        "aliases": []
+      },
+      {
+        "name": "유",
+        "english": "U",
+        "aliases": [
+          "Yu"
+        ]
+      },
+      {
+        "name": "베이비",
+        "english": "BABY",
+        "aliases": []
+      },
+      {
+        "name": "아치라야",
+        "english": "ACHIRAYA",
+        "aliases": []
+      },
+      {
+        "name": "키라라",
+        "english": "KILALA",
+        "aliases": [
+          "Kirara"
+        ]
+      }
+    ],
+    "sources": [
+      "https://idol.daissu.co.kr/artist/wd-q140681359",
+      "https://en.innitent.com/logout.cm?back_url=LzQw",
+      "https://kpopping.com/profiles/group/ourbirthday"
+    ]
+  },
+  {
+    "name": "루네이트",
+    "english": "LUN8",
+    "aliases": [
+      "LUNATE"
+    ],
+    "members": [
+      {
+        "name": "유우마",
+        "english": "YUMA",
+        "aliases": [
+          "유마"
+        ]
+      },
+      {
+        "name": "카엘",
+        "english": "CHAEL",
+        "aliases": []
+      },
+      {
+        "name": "진수",
+        "english": "JIN SU",
+        "aliases": [
+          "Jinsu"
+        ]
+      },
+      {
+        "name": "타쿠마",
+        "english": "TAKUMA",
+        "aliases": []
+      },
+      {
+        "name": "준우",
+        "english": "JUN WOO",
+        "aliases": [
+          "Junwoo"
+        ]
+      },
+      {
+        "name": "도현",
+        "english": "DO HYUN",
+        "aliases": [
+          "Dohyun"
+        ]
+      },
+      {
+        "name": "이안",
+        "english": "IAN",
+        "aliases": []
+      }
+    ],
+    "formerMembers": [
+      {
+        "name": "은섭",
+        "english": "EUNSEOP",
+        "aliases": []
+      },
+      {
+        "name": "지은호",
+        "english": "JI EUN HO",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://kwavescope.com/lun8/",
+      "https://pyrkon.pl/wp-content/uploads/2026/05/LUN8-%ED%94%84%EB%A1%9C%ED%95%84_ENG.pdf",
+      "https://fan.pia.jp/lun8/news/detail/132/"
+    ]
+  },
+  {
+    "name": "나우즈",
+    "english": "NOWZ",
+    "aliases": [
+      "NOWADAYS",
+      "나우어데이즈"
+    ],
+    "members": [
+      {
+        "name": "현빈",
+        "english": "HYEONBIN",
+        "aliases": []
+      },
+      {
+        "name": "윤",
+        "english": "YOON",
+        "aliases": []
+      },
+      {
+        "name": "연우",
+        "english": "YEONWOO",
+        "aliases": []
+      },
+      {
+        "name": "진혁",
+        "english": "JINHYUK",
+        "aliases": []
+      },
+      {
+        "name": "시윤",
+        "english": "SIYUN",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=3750394",
+      "https://nowz.cubeent.co.jp/profile/"
+    ]
+  },
+  {
+    "name": "더윈드",
+    "english": "The Wind",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김희수",
+        "english": "Kim Heesoo",
+        "aliases": [
+          "희수"
+        ]
+      },
+      {
+        "name": "타나톤",
+        "english": "Thanatorn",
+        "aliases": []
+      },
+      {
+        "name": "최한빈",
+        "english": "Choi Hanbin",
+        "aliases": [
+          "한빈"
+        ]
+      },
+      {
+        "name": "박하유찬",
+        "english": "Park Hayuchan",
+        "aliases": [
+          "하유찬"
+        ]
+      },
+      {
+        "name": "안찬원",
+        "english": "An Chanwon",
+        "aliases": [
+          "찬원"
+        ]
+      },
+      {
+        "name": "장현준",
+        "english": "Jang Hyounjoon",
+        "aliases": [
+          "현준",
+          "Jang Hyoun Joon"
+        ]
+      }
+    ],
+    "formerMembers": [
+      {
+        "name": "신재원",
+        "english": "Shin Jaewon",
+        "aliases": [
+          "재원"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=3452112",
+      "https://en.wikipedia.org/wiki/The_Wind_%28band%29"
+    ]
+  },
+  {
+    "name": "82메이저",
+    "english": "82MAJOR",
+    "aliases": [
+      "에이티투메이저"
+    ],
+    "members": [
+      {
+        "name": "남성모",
+        "english": "NAM SEONG MO",
+        "aliases": [
+          "성모"
+        ]
+      },
+      {
+        "name": "박석준",
+        "english": "PARK SEOK JOON",
+        "aliases": [
+          "석준"
+        ]
+      },
+      {
+        "name": "윤예찬",
+        "english": "YOON YE CHAN",
+        "aliases": [
+          "예찬"
+        ]
+      },
+      {
+        "name": "조성일",
+        "english": "CHO SEONG IL",
+        "aliases": [
+          "성일"
+        ]
+      },
+      {
+        "name": "황성빈",
+        "english": "HWANG SEONG BIN",
+        "aliases": [
+          "성빈"
+        ]
+      },
+      {
+        "name": "김도균",
+        "english": "KIM DO GYUN",
+        "aliases": [
+          "도균"
+        ]
+      }
+    ],
+    "sources": [
+      "https://82major.jp/profile/",
+      "https://www.melon.com/artist/detail.htm?artistId=3573387"
+    ]
+  },
+  {
+    "name": "아홉",
+    "english": "AHOF",
+    "aliases": [],
+    "members": [
+      {
+        "name": "스티븐",
+        "english": "STEVEN",
+        "aliases": []
+      },
+      {
+        "name": "서정우",
+        "english": "SEO JEONGWOO",
+        "aliases": [
+          "정우"
+        ]
+      },
+      {
+        "name": "차웅기",
+        "english": "CHA WOONGKI",
+        "aliases": [
+          "웅기"
+        ]
+      },
+      {
+        "name": "장슈아이보",
+        "english": "ZHANG SHUAIBO",
+        "aliases": [
+          "슈아이보"
+        ]
+      },
+      {
+        "name": "박한",
+        "english": "PARK HAN",
+        "aliases": []
+      },
+      {
+        "name": "제이엘",
+        "english": "JL",
+        "aliases": [
+          "JL Gaspar"
+        ]
+      },
+      {
+        "name": "박주원",
+        "english": "PARK JUWON",
+        "aliases": [
+          "주원"
+        ]
+      },
+      {
+        "name": "즈언",
+        "english": "CHIH EN",
+        "aliases": [
+          "Chihen"
+        ]
+      },
+      {
+        "name": "다이스케",
+        "english": "DAISUKE",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4348355",
+      "https://en.yna.co.kr/view/AEN20250701009600315",
+      "https://weverse.io/ahof/notice/30161?hl=ko"
+    ]
+  },
+  {
+    "name": "베리베리",
+    "english": "VERIVERY",
+    "aliases": [],
+    "members": [
+      {
+        "name": "동헌",
+        "english": "DONGHEON",
+        "aliases": []
+      },
+      {
+        "name": "호영",
+        "english": "HOYOUNG",
+        "aliases": []
+      },
+      {
+        "name": "민찬",
+        "english": "MINCHAN",
+        "aliases": []
+      },
+      {
+        "name": "계현",
+        "english": "GYEHYEON",
+        "aliases": []
+      },
+      {
+        "name": "연호",
+        "english": "YEONHO",
+        "aliases": []
+      },
+      {
+        "name": "용승",
+        "english": "YONGSEUNG",
+        "aliases": []
+      },
+      {
+        "name": "강민",
+        "english": "KANGMIN",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://kprofiles.com/verivery-members-profile/",
+      "https://sports.khan.co.kr/article/202505091557003",
+      "https://v.daum.net/v/20251118102847145"
+    ]
+  },
+  {
+    "name": "이븐",
+    "english": "EVNNE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "케이타",
+        "english": "KEITA",
+        "aliases": []
+      },
+      {
+        "name": "박한빈",
+        "english": "PARK HANBIN",
+        "aliases": [
+          "한빈"
+        ]
+      },
+      {
+        "name": "이정현",
+        "english": "LEE JEONGHYEON",
+        "aliases": [
+          "정현"
+        ]
+      },
+      {
+        "name": "문정현",
+        "english": "MUN JUNGHYUN",
+        "aliases": [
+          "정현",
+          "Moon Junghyun"
+        ]
+      },
+      {
+        "name": "박지후",
+        "english": "PARK JIHOO",
+        "aliases": [
+          "지후"
+        ]
+      }
+    ],
+    "formerMembers": [
+      {
+        "name": "유승언",
+        "english": "YOO SEUNGEON",
+        "aliases": [
+          "승언"
+        ]
+      },
+      {
+        "name": "지윤서",
+        "english": "JI YUNSEO",
+        "aliases": [
+          "윤서"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=3561880",
+      "https://www.mk.co.kr/en/musics/12021993",
+      "https://en.wikipedia.org/wiki/Evnne"
+    ]
+  },
+  {
+    "name": "이펙스",
+    "english": "EPEX",
+    "aliases": [],
+    "members": [
+      {
+        "name": "위시",
+        "english": "WISH",
+        "aliases": []
+      },
+      {
+        "name": "뮤",
+        "english": "MU",
+        "aliases": []
+      },
+      {
+        "name": "아민",
+        "english": "A-MIN",
+        "aliases": []
+      },
+      {
+        "name": "백승",
+        "english": "BAEKSEUNG",
+        "aliases": []
+      },
+      {
+        "name": "에이든",
+        "english": "AYDEN",
+        "aliases": []
+      },
+      {
+        "name": "예왕",
+        "english": "YEWANG",
+        "aliases": []
+      },
+      {
+        "name": "제프",
+        "english": "JEFF",
+        "aliases": []
+      }
+    ],
+    "formerMembers": [
+      {
+        "name": "금동현",
+        "english": "KEUM",
+        "aliases": [
+          "Keum Donghyun"
+        ]
+      }
+    ],
+    "sources": [
+      "https://kprofiles.com/epex-members-profile/",
+      "https://mobile.newsis.com/view/NISX20251121_0003412800"
+    ]
+  },
+  {
+    "name": "케플러",
+    "english": "Kep1er",
+    "aliases": [
+      "Kepler"
+    ],
+    "members": [
+      {
+        "name": "최유진",
+        "english": "CHOI YUJIN",
+        "aliases": [
+          "유진"
+        ]
+      },
+      {
+        "name": "샤오팅",
+        "english": "XIAOTING",
+        "aliases": [
+          "Shen Xiaoting"
+        ]
+      },
+      {
+        "name": "김채현",
+        "english": "KIM CHAEHYUN",
+        "aliases": [
+          "채현"
+        ]
+      },
+      {
+        "name": "김다연",
+        "english": "KIM DAYEON",
+        "aliases": [
+          "다연"
+        ]
+      },
+      {
+        "name": "히카루",
+        "english": "HIKARU",
+        "aliases": []
+      },
+      {
+        "name": "휴닝바히에",
+        "english": "HUENING BAHIYYIH",
+        "aliases": [
+          "바히에"
+        ]
+      }
+    ],
+    "formerMembers": [
+      {
+        "name": "마시로",
+        "english": "MASHIRO",
+        "aliases": []
+      },
+      {
+        "name": "강예서",
+        "english": "KANG YESEO",
+        "aliases": [
+          "예서"
+        ]
+      },
+      {
+        "name": "서영은",
+        "english": "SEO YOUNGEUN",
+        "aliases": [
+          "영은"
+        ]
+      }
+    ],
+    "sources": [
+      "https://news.sbs.co.kr/amp/news.amp?news_id=N1008467341"
+    ]
+  },
+  {
+    "name": "빌리",
+    "english": "Billlie",
+    "aliases": [],
+    "members": [
+      {
+        "name": "문수아",
+        "english": "MOON SUA",
+        "aliases": [
+          "수아"
+        ]
+      },
+      {
+        "name": "수현",
+        "english": "SUHYEON",
+        "aliases": []
+      },
+      {
+        "name": "하람",
+        "english": "HARAM",
+        "aliases": []
+      },
+      {
+        "name": "츠키",
+        "english": "TSUKI",
+        "aliases": []
+      },
+      {
+        "name": "션",
+        "english": "SHEON",
+        "aliases": []
+      },
+      {
+        "name": "시윤",
+        "english": "SIYOON",
+        "aliases": []
+      },
+      {
+        "name": "하루나",
+        "english": "HARUNA",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://mystic.bstage.in/contents/6aa12629a694b15db3b4c637",
+      "https://en.wikipedia.org/wiki/Billlie"
+    ]
+  },
+  {
+    "name": "이프아이",
+    "english": "ifeye",
+    "aliases": [],
+    "members": [
+      {
+        "name": "원화연",
+        "english": "WON HWAYEON",
+        "aliases": [
+          "화연"
+        ]
+      },
+      {
+        "name": "태린",
+        "english": "TAERIN",
+        "aliases": []
+      },
+      {
+        "name": "라희",
+        "english": "RAHEE",
+        "aliases": []
+      },
+      {
+        "name": "카시아",
+        "english": "KASIA",
+        "aliases": []
+      },
+      {
+        "name": "미유",
+        "english": "MEU",
+        "aliases": [
+          "Miyu"
+        ]
+      },
+      {
+        "name": "사샤",
+        "english": "SASHA",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=4170192",
+      "https://artist.mnetplus.world/main/stg/ifeye/contents/6ae7804cde658677642a4ed3"
+    ]
+  },
+  {
+    "name": "영파씨",
+    "english": "YOUNG POSSE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "정선혜",
+        "english": "SUNHYE",
+        "aliases": [
+          "선혜",
+          "Jung Sunhye"
+        ]
+      },
+      {
+        "name": "위연정",
+        "english": "YEONJUNG",
+        "aliases": [
+          "연정",
+          "Wi Yeonjung"
+        ]
+      },
+      {
+        "name": "지아나",
+        "english": "JIANA",
+        "aliases": []
+      },
+      {
+        "name": "도은",
+        "english": "DOEUN",
+        "aliases": []
+      },
+      {
+        "name": "한지은",
+        "english": "JIEUN",
+        "aliases": [
+          "지은",
+          "Han Jieun"
+        ]
+      }
+    ],
+    "sources": [
+      "https://www.melon.com/artist/detail.htm?artistId=3597971"
+    ]
+  },
+  {
+    "name": "베이비돈크라이",
+    "english": "Baby DONT Cry",
+    "aliases": [
+      "Baby Don't Cry"
+    ],
+    "members": [
+      {
+        "name": "이현",
+        "english": "YIHYUN",
+        "aliases": [
+          "조이현"
+        ]
+      },
+      {
+        "name": "쿠미",
+        "english": "KUMI",
+        "aliases": []
+      },
+      {
+        "name": "미아",
+        "english": "MIA",
+        "aliases": []
+      },
+      {
+        "name": "베니",
+        "english": "BENI",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://weverse.io/babydontcry/artist/2-165019430?hl=ko",
+      "https://en.wikipedia.org/wiki/Baby_Dont_Cry"
+    ]
+  },
+  {
+    "name": "아르테미스",
+    "english": "ARTMS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "희진",
+        "english": "HeeJin",
+        "aliases": []
+      },
+      {
+        "name": "하슬",
+        "english": "HaSeul",
+        "aliases": []
+      },
+      {
+        "name": "김립",
+        "english": "Kim Lip",
+        "aliases": []
+      },
+      {
+        "name": "진솔",
+        "english": "JinSoul",
+        "aliases": []
+      },
+      {
+        "name": "최리",
+        "english": "Choerry",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://kpopping.com/profiles/group/ARTMS",
+      "https://issuecut.com/kr/ko/idols/groups/artms"
+    ]
+  },
+  {
+    "name": "앳하트",
+    "english": "AtHeart",
+    "aliases": [
+      "@Heart"
+    ],
+    "members": [
+      {
+        "name": "미치",
+        "english": "MICHI",
+        "aliases": []
+      },
+      {
+        "name": "아린",
+        "english": "ARIN",
+        "aliases": []
+      },
+      {
+        "name": "케이틀린",
+        "english": "KATELYN",
+        "aliases": []
+      },
+      {
+        "name": "봄",
+        "english": "BOME",
+        "aliases": []
+      },
+      {
+        "name": "서현",
+        "english": "SEOHYEON",
+        "aliases": []
+      },
+      {
+        "name": "오로라",
+        "english": "AURORA",
+        "aliases": []
+      },
+      {
+        "name": "나현",
+        "english": "NAHYUN",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://www.teenvogue.com/story/atheart-member-profiles-titan-kpop-girl-group",
+      "https://kprofiles.com/atheart-members-profile/",
+      "https://rollingstone.co.kr/main/%24/24800"
+    ]
+  },
+  {
+    "name": "피원하모니",
+    "english": "P1Harmony",
+    "aliases": [
+      "P1H",
+      "피원"
+    ],
+    "members": [
+      {
+        "name": "기호",
+        "english": "KEEHO",
+        "aliases": []
+      },
+      {
+        "name": "테오",
+        "english": "THEO",
+        "aliases": []
+      },
+      {
+        "name": "지웅",
+        "english": "JIUNG",
+        "aliases": []
+      },
+      {
+        "name": "인탁",
+        "english": "INTAK",
+        "aliases": []
+      },
+      {
+        "name": "소울",
+        "english": "SOUL",
+        "aliases": []
+      },
+      {
+        "name": "종섭",
+        "english": "JONGSEOB",
+        "aliases": []
+      }
+    ],
+    "sources": [
+      "https://p1harmony.jp/news/2/",
+      "https://fncent.co.kr/P1Harmony/b/introduce/45597",
+      "https://en.wikipedia.org/wiki/P1Harmony"
+    ]
+  },
+  {
+    "name": "클로즈유어아이즈",
+    "english": "CLOSE YOUR EYES",
+    "aliases": [
+      "클로즈 유어 아이즈",
+      "클유아"
+    ],
+    "members": [
+      {
+        "name": "전민욱",
+        "english": "JEON MINWOOK",
+        "aliases": [
+          "민욱"
+        ]
+      },
+      {
+        "name": "마징시앙",
+        "english": "MA JINGXIANG",
+        "aliases": [
+          "징시앙"
+        ]
+      },
+      {
+        "name": "장여준",
+        "english": "JANG YEOJUN",
+        "aliases": [
+          "여준"
+        ]
+      },
+      {
+        "name": "김성민",
+        "english": "KIM SUNGMIN",
+        "aliases": [
+          "성민"
+        ]
+      },
+      {
+        "name": "송승호",
+        "english": "SONG SEUNGHO",
+        "aliases": [
+          "승호"
+        ]
+      },
+      {
+        "name": "켄신",
+        "english": "KENSHIN",
+        "aliases": [
+          "Sakurada Kenshin"
+        ]
+      },
+      {
+        "name": "서경배",
+        "english": "SEO KYOUNGBAE",
+        "aliases": [
+          "경배"
+        ]
+      }
+    ],
+    "sources": [
+      "https://closeyoureyes.jp/profile.html",
+      "https://www.uncore.co.kr/j_sub02/sub01_view.php?no=4"
+    ]
+  }
+]

@@ -1,0 +1,6857 @@
+[
+  {
+    "name": "방탄소년단",
+    "english": "BTS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "알엠",
+        "english": "RM",
+        "aliases": [
+          "김남준"
+        ]
+      },
+      {
+        "name": "진",
+        "english": "Jin",
+        "aliases": [
+          "김석진"
+        ]
+      },
+      {
+        "name": "슈가",
+        "english": "SUGA",
+        "aliases": [
+          "민윤기",
+          "Agust D"
+        ]
+      },
+      {
+        "name": "제이홉",
+        "english": "j-hope",
+        "aliases": [
+          "정호석"
+        ]
+      },
+      {
+        "name": "지민",
+        "english": "Jimin",
+        "aliases": [
+          "박지민"
+        ]
+      },
+      {
+        "name": "뷔",
+        "english": "V",
+        "aliases": [
+          "김태형"
+        ]
+      },
+      {
+        "name": "정국",
+        "english": "Jung Kook",
+        "aliases": [
+          "Jungkook",
+          "전정국"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/BTS"
+    ]
+  },
+  {
+    "name": "세븐틴",
+    "english": "SEVENTEEN",
+    "aliases": [],
+    "members": [
+      {
+        "name": "에스쿱스",
+        "english": "S.COUPS",
+        "aliases": [
+          "최승철"
+        ]
+      },
+      {
+        "name": "정한",
+        "english": "Jeonghan",
+        "aliases": [
+          "윤정한"
+        ]
+      },
+      {
+        "name": "조슈아",
+        "english": "Joshua",
+        "aliases": [
+          "홍지수"
+        ]
+      },
+      {
+        "name": "준",
+        "english": "Jun",
+        "aliases": [
+          "문준휘"
+        ]
+      },
+      {
+        "name": "호시",
+        "english": "Hoshi",
+        "aliases": [
+          "권순영"
+        ]
+      },
+      {
+        "name": "원우",
+        "english": "Wonwoo",
+        "aliases": [
+          "전원우"
+        ]
+      },
+      {
+        "name": "우지",
+        "english": "Woozi",
+        "aliases": [
+          "이지훈"
+        ]
+      },
+      {
+        "name": "디에잇",
+        "english": "THE 8",
+        "aliases": [
+          "서명호"
+        ]
+      },
+      {
+        "name": "민규",
+        "english": "Mingyu",
+        "aliases": [
+          "김민규"
+        ]
+      },
+      {
+        "name": "도겸",
+        "english": "DK",
+        "aliases": [
+          "이석민"
+        ]
+      },
+      {
+        "name": "승관",
+        "english": "Seungkwan",
+        "aliases": [
+          "부승관"
+        ]
+      },
+      {
+        "name": "버논",
+        "english": "Vernon",
+        "aliases": [
+          "최한솔"
+        ]
+      },
+      {
+        "name": "디노",
+        "english": "Dino",
+        "aliases": [
+          "이찬"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Seventeen_(South_Korean_band)"
+    ]
+  },
+  {
+    "name": "트와이스",
+    "english": "TWICE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "나연",
+        "english": "Nayeon",
+        "aliases": []
+      },
+      {
+        "name": "정연",
+        "english": "Jeongyeon",
+        "aliases": []
+      },
+      {
+        "name": "모모",
+        "english": "Momo",
+        "aliases": []
+      },
+      {
+        "name": "사나",
+        "english": "Sana",
+        "aliases": []
+      },
+      {
+        "name": "지효",
+        "english": "Jihyo",
+        "aliases": []
+      },
+      {
+        "name": "미나",
+        "english": "Mina",
+        "aliases": []
+      },
+      {
+        "name": "다현",
+        "english": "Dahyun",
+        "aliases": []
+      },
+      {
+        "name": "채영",
+        "english": "Chaeyoung",
+        "aliases": []
+      },
+      {
+        "name": "쯔위",
+        "english": "Tzuyu",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Twice"
+    ]
+  },
+  {
+    "name": "엑소",
+    "english": "EXO",
+    "aliases": [],
+    "members": [
+      {
+        "name": "시우민",
+        "english": "Xiumin",
+        "aliases": []
+      },
+      {
+        "name": "수호",
+        "english": "Suho",
+        "aliases": []
+      },
+      {
+        "name": "레이",
+        "english": "Lay",
+        "aliases": []
+      },
+      {
+        "name": "백현",
+        "english": "Baekhyun",
+        "aliases": []
+      },
+      {
+        "name": "첸",
+        "english": "Chen",
+        "aliases": []
+      },
+      {
+        "name": "찬열",
+        "english": "Chanyeol",
+        "aliases": []
+      },
+      {
+        "name": "디오",
+        "english": "D.O.",
+        "aliases": [
+          "도경수"
+        ]
+      },
+      {
+        "name": "카이",
+        "english": "Kai",
+        "aliases": []
+      },
+      {
+        "name": "세훈",
+        "english": "Sehun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Exo"
+    ]
+  },
+  {
+    "name": "블랙핑크",
+    "english": "BLACKPINK",
+    "aliases": [],
+    "members": [
+      {
+        "name": "지수",
+        "english": "Jisoo",
+        "aliases": []
+      },
+      {
+        "name": "제니",
+        "english": "Jennie",
+        "aliases": []
+      },
+      {
+        "name": "로제",
+        "english": "Rosé",
+        "aliases": [
+          "Rose"
+        ]
+      },
+      {
+        "name": "리사",
+        "english": "Lisa",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Blackpink"
+    ]
+  },
+  {
+    "name": "레드벨벳",
+    "english": "Red Velvet",
+    "aliases": [],
+    "members": [
+      {
+        "name": "아이린",
+        "english": "Irene",
+        "aliases": []
+      },
+      {
+        "name": "슬기",
+        "english": "Seulgi",
+        "aliases": []
+      },
+      {
+        "name": "웬디",
+        "english": "Wendy",
+        "aliases": []
+      },
+      {
+        "name": "조이",
+        "english": "Joy",
+        "aliases": []
+      },
+      {
+        "name": "예리",
+        "english": "Yeri",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Red_Velvet_(group)"
+    ]
+  },
+  {
+    "name": "마마무",
+    "english": "MAMAMOO",
+    "aliases": [],
+    "members": [
+      {
+        "name": "솔라",
+        "english": "Solar",
+        "aliases": []
+      },
+      {
+        "name": "문별",
+        "english": "Moonbyul",
+        "aliases": []
+      },
+      {
+        "name": "휘인",
+        "english": "Wheein",
+        "aliases": []
+      },
+      {
+        "name": "화사",
+        "english": "Hwasa",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Mamamoo"
+    ]
+  },
+  {
+    "name": "여자친구",
+    "english": "GFRIEND",
+    "aliases": [],
+    "members": [
+      {
+        "name": "소원",
+        "english": "Sowon",
+        "aliases": []
+      },
+      {
+        "name": "예린",
+        "english": "Yerin",
+        "aliases": []
+      },
+      {
+        "name": "은하",
+        "english": "Eunha",
+        "aliases": []
+      },
+      {
+        "name": "유주",
+        "english": "Yuju",
+        "aliases": []
+      },
+      {
+        "name": "신비",
+        "english": "SinB",
+        "aliases": []
+      },
+      {
+        "name": "엄지",
+        "english": "Umji",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/GFriend"
+    ]
+  },
+  {
+    "name": "스트레이 키즈",
+    "english": "Stray Kids",
+    "aliases": [
+      "스키즈",
+      "SKZ"
+    ],
+    "members": [
+      {
+        "name": "방찬",
+        "english": "Bang Chan",
+        "aliases": []
+      },
+      {
+        "name": "리노",
+        "english": "Lee Know",
+        "aliases": []
+      },
+      {
+        "name": "창빈",
+        "english": "Changbin",
+        "aliases": []
+      },
+      {
+        "name": "현진",
+        "english": "Hyunjin",
+        "aliases": []
+      },
+      {
+        "name": "한",
+        "english": "Han",
+        "aliases": []
+      },
+      {
+        "name": "필릭스",
+        "english": "Felix",
+        "aliases": []
+      },
+      {
+        "name": "승민",
+        "english": "Seungmin",
+        "aliases": []
+      },
+      {
+        "name": "아이엔",
+        "english": "I.N",
+        "aliases": []
+      },
+      {
+        "name": "우진",
+        "english": "Woojin",
+        "aliases": [
+          "김우진"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Stray_Kids"
+    ]
+  },
+  {
+    "name": "투모로우바이투게더",
+    "english": "TOMORROW X TOGETHER",
+    "aliases": [
+      "TXT",
+      "투바투"
+    ],
+    "members": [
+      {
+        "name": "수빈",
+        "english": "Soobin",
+        "aliases": []
+      },
+      {
+        "name": "연준",
+        "english": "Yeonjun",
+        "aliases": []
+      },
+      {
+        "name": "범규",
+        "english": "Beomgyu",
+        "aliases": []
+      },
+      {
+        "name": "태현",
+        "english": "Taehyun",
+        "aliases": []
+      },
+      {
+        "name": "휴닝카이",
+        "english": "Huening Kai",
+        "aliases": [
+          "Hueningkai"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019",
+      "https://en.wikipedia.org/wiki/Tomorrow_X_Together"
+    ]
+  },
+  {
+    "name": "엔하이픈",
+    "english": "ENHYPEN",
+    "aliases": [],
+    "members": [
+      {
+        "name": "정원",
+        "english": "Jungwon",
+        "aliases": []
+      },
+      {
+        "name": "희승",
+        "english": "Heeseung",
+        "aliases": []
+      },
+      {
+        "name": "제이",
+        "english": "Jay",
+        "aliases": []
+      },
+      {
+        "name": "제이크",
+        "english": "Jake",
+        "aliases": []
+      },
+      {
+        "name": "성훈",
+        "english": "Sunghoon",
+        "aliases": []
+      },
+      {
+        "name": "선우",
+        "english": "Sunoo",
+        "aliases": []
+      },
+      {
+        "name": "니키",
+        "english": "Ni-ki",
+        "aliases": [
+          "Niki"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1502196wpp/watch-performances-from-melon-music-awards-2021",
+      "https://en.wikipedia.org/wiki/Enhypen"
+    ]
+  },
+  {
+    "name": "에이티즈",
+    "english": "ATEEZ",
+    "aliases": [],
+    "members": [
+      {
+        "name": "홍중",
+        "english": "Hongjoong",
+        "aliases": []
+      },
+      {
+        "name": "성화",
+        "english": "Seonghwa",
+        "aliases": []
+      },
+      {
+        "name": "윤호",
+        "english": "Yunho",
+        "aliases": []
+      },
+      {
+        "name": "여상",
+        "english": "Yeosang",
+        "aliases": []
+      },
+      {
+        "name": "산",
+        "english": "San",
+        "aliases": []
+      },
+      {
+        "name": "민기",
+        "english": "Mingi",
+        "aliases": []
+      },
+      {
+        "name": "우영",
+        "english": "Wooyoung",
+        "aliases": []
+      },
+      {
+        "name": "종호",
+        "english": "Jongho",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm",
+      "https://en.wikipedia.org/wiki/Ateez"
+    ]
+  },
+  {
+    "name": "에스파",
+    "english": "aespa",
+    "aliases": [],
+    "members": [
+      {
+        "name": "카리나",
+        "english": "Karina",
+        "aliases": []
+      },
+      {
+        "name": "지젤",
+        "english": "Giselle",
+        "aliases": []
+      },
+      {
+        "name": "윈터",
+        "english": "Winter",
+        "aliases": []
+      },
+      {
+        "name": "닝닝",
+        "english": "Ningning",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/Aespa"
+    ]
+  },
+  {
+    "name": "아이브",
+    "english": "IVE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "안유진",
+        "english": "An Yujin",
+        "aliases": [
+          "Yujin"
+        ]
+      },
+      {
+        "name": "가을",
+        "english": "Gaeul",
+        "aliases": []
+      },
+      {
+        "name": "레이",
+        "english": "Rei",
+        "aliases": []
+      },
+      {
+        "name": "장원영",
+        "english": "Jang Wonyoung",
+        "aliases": [
+          "Wonyoung"
+        ]
+      },
+      {
+        "name": "리즈",
+        "english": "Liz",
+        "aliases": []
+      },
+      {
+        "name": "이서",
+        "english": "Leeseo",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022",
+      "https://en.wikipedia.org/wiki/Ive_(group)"
+    ]
+  },
+  {
+    "name": "르세라핌",
+    "english": "LE SSERAFIM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "사쿠라",
+        "english": "Sakura",
+        "aliases": []
+      },
+      {
+        "name": "김채원",
+        "english": "Kim Chaewon",
+        "aliases": [
+          "Chaewon"
+        ]
+      },
+      {
+        "name": "허윤진",
+        "english": "Huh Yunjin",
+        "aliases": [
+          "Yunjin"
+        ]
+      },
+      {
+        "name": "카즈하",
+        "english": "Kazuha",
+        "aliases": []
+      },
+      {
+        "name": "홍은채",
+        "english": "Hong Eunchae",
+        "aliases": [
+          "Eunchae"
+        ]
+      },
+      {
+        "name": "김가람",
+        "english": "Kim Garam",
+        "aliases": [
+          "Garam"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022",
+      "https://en.wikipedia.org/wiki/Le_Sserafim"
+    ]
+  },
+  {
+    "name": "뉴진스",
+    "english": "NewJeans",
+    "aliases": [],
+    "members": [
+      {
+        "name": "민지",
+        "english": "Minji",
+        "aliases": []
+      },
+      {
+        "name": "하니",
+        "english": "Hanni",
+        "aliases": []
+      },
+      {
+        "name": "다니엘",
+        "english": "Danielle",
+        "aliases": []
+      },
+      {
+        "name": "해린",
+        "english": "Haerin",
+        "aliases": []
+      },
+      {
+        "name": "혜인",
+        "english": "Hyein",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022",
+      "https://en.wikipedia.org/wiki/NewJeans"
+    ]
+  },
+  {
+    "name": "아이들",
+    "english": "i-dle",
+    "aliases": [
+      "(G)I-DLE",
+      "여자아이들",
+      "(여자)아이들",
+      "GIDLE"
+    ],
+    "members": [
+      {
+        "name": "미연",
+        "english": "Miyeon",
+        "aliases": []
+      },
+      {
+        "name": "민니",
+        "english": "Minnie",
+        "aliases": []
+      },
+      {
+        "name": "소연",
+        "english": "Soyeon",
+        "aliases": []
+      },
+      {
+        "name": "우기",
+        "english": "Yuqi",
+        "aliases": []
+      },
+      {
+        "name": "슈화",
+        "english": "Shuhua",
+        "aliases": []
+      },
+      {
+        "name": "수진",
+        "english": "Soojin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/I-dle"
+    ]
+  },
+  {
+    "name": "있지",
+    "english": "ITZY",
+    "aliases": [],
+    "members": [
+      {
+        "name": "예지",
+        "english": "Yeji",
+        "aliases": []
+      },
+      {
+        "name": "리아",
+        "english": "Lia",
+        "aliases": []
+      },
+      {
+        "name": "류진",
+        "english": "Ryujin",
+        "aliases": []
+      },
+      {
+        "name": "채령",
+        "english": "Chaeryeong",
+        "aliases": []
+      },
+      {
+        "name": "유나",
+        "english": "Yuna",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019",
+      "https://en.wikipedia.org/wiki/Itzy"
+    ]
+  },
+  {
+    "name": "엔믹스",
+    "english": "NMIXX",
+    "aliases": [],
+    "members": [
+      {
+        "name": "릴리",
+        "english": "Lily",
+        "aliases": []
+      },
+      {
+        "name": "해원",
+        "english": "Haewon",
+        "aliases": []
+      },
+      {
+        "name": "설윤",
+        "english": "Sullyoon",
+        "aliases": []
+      },
+      {
+        "name": "배이",
+        "english": "Bae",
+        "aliases": []
+      },
+      {
+        "name": "지우",
+        "english": "Jiwoo",
+        "aliases": []
+      },
+      {
+        "name": "규진",
+        "english": "Kyujin",
+        "aliases": []
+      },
+      {
+        "name": "지니",
+        "english": "Jinni",
+        "aliases": [
+          "Jini"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/Nmixx"
+    ]
+  },
+  {
+    "name": "스테이씨",
+    "english": "STAYC",
+    "aliases": [],
+    "members": [
+      {
+        "name": "수민",
+        "english": "Sumin",
+        "aliases": []
+      },
+      {
+        "name": "시은",
+        "english": "Sieun",
+        "aliases": []
+      },
+      {
+        "name": "아이사",
+        "english": "Isa",
+        "aliases": []
+      },
+      {
+        "name": "세은",
+        "english": "Seeun",
+        "aliases": []
+      },
+      {
+        "name": "윤",
+        "english": "Yoon",
+        "aliases": []
+      },
+      {
+        "name": "재이",
+        "english": "J",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1502196wpp/watch-performances-from-melon-music-awards-2021",
+      "https://en.wikipedia.org/wiki/STAYC"
+    ]
+  },
+  {
+    "name": "몬스타엑스",
+    "english": "MONSTA X",
+    "aliases": [],
+    "members": [
+      {
+        "name": "셔누",
+        "english": "Shownu",
+        "aliases": []
+      },
+      {
+        "name": "민혁",
+        "english": "Minhyuk",
+        "aliases": []
+      },
+      {
+        "name": "기현",
+        "english": "Kihyun",
+        "aliases": []
+      },
+      {
+        "name": "형원",
+        "english": "Hyungwon",
+        "aliases": []
+      },
+      {
+        "name": "주헌",
+        "english": "Joohoney",
+        "aliases": [
+          "Jooheon"
+        ]
+      },
+      {
+        "name": "아이엠",
+        "english": "I.M",
+        "aliases": []
+      },
+      {
+        "name": "원호",
+        "english": "Wonho",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Monsta_X"
+    ]
+  },
+  {
+    "name": "더보이즈",
+    "english": "THE BOYZ",
+    "aliases": [],
+    "members": [
+      {
+        "name": "상연",
+        "english": "Sangyeon",
+        "aliases": []
+      },
+      {
+        "name": "제이콥",
+        "english": "Jacob",
+        "aliases": []
+      },
+      {
+        "name": "영훈",
+        "english": "Younghoon",
+        "aliases": []
+      },
+      {
+        "name": "현재",
+        "english": "Hyunjae",
+        "aliases": []
+      },
+      {
+        "name": "주연",
+        "english": "Juyeon",
+        "aliases": []
+      },
+      {
+        "name": "케빈",
+        "english": "Kevin",
+        "aliases": []
+      },
+      {
+        "name": "뉴",
+        "english": "New",
+        "aliases": []
+      },
+      {
+        "name": "큐",
+        "english": "Q",
+        "aliases": []
+      },
+      {
+        "name": "주학년",
+        "english": "Ju Haknyeon",
+        "aliases": []
+      },
+      {
+        "name": "선우",
+        "english": "Sunwoo",
+        "aliases": []
+      },
+      {
+        "name": "에릭",
+        "english": "Eric",
+        "aliases": []
+      },
+      {
+        "name": "활",
+        "english": "Hwall",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/The_Boyz_(South_Korean_band)"
+    ]
+  },
+  {
+    "name": "트레저",
+    "english": "TREASURE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "최현석",
+        "english": "Choi Hyunsuk",
+        "aliases": []
+      },
+      {
+        "name": "지훈",
+        "english": "Jihoon",
+        "aliases": []
+      },
+      {
+        "name": "요시",
+        "english": "Yoshi",
+        "aliases": []
+      },
+      {
+        "name": "준규",
+        "english": "Junkyu",
+        "aliases": []
+      },
+      {
+        "name": "윤재혁",
+        "english": "Yoon Jaehyuk",
+        "aliases": []
+      },
+      {
+        "name": "아사히",
+        "english": "Asahi",
+        "aliases": []
+      },
+      {
+        "name": "도영",
+        "english": "Doyoung",
+        "aliases": []
+      },
+      {
+        "name": "하루토",
+        "english": "Haruto",
+        "aliases": []
+      },
+      {
+        "name": "박정우",
+        "english": "Park Jeongwoo",
+        "aliases": []
+      },
+      {
+        "name": "소정환",
+        "english": "So Junghwan",
+        "aliases": []
+      },
+      {
+        "name": "마시호",
+        "english": "Mashiho",
+        "aliases": []
+      },
+      {
+        "name": "방예담",
+        "english": "Bang Yedam",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet",
+      "https://en.wikipedia.org/wiki/Treasure_(band)"
+    ]
+  },
+  {
+    "name": "크래비티",
+    "english": "CRAVITY",
+    "aliases": [],
+    "members": [
+      {
+        "name": "세림",
+        "english": "Serim",
+        "aliases": []
+      },
+      {
+        "name": "앨런",
+        "english": "Allen",
+        "aliases": []
+      },
+      {
+        "name": "정모",
+        "english": "Jungmo",
+        "aliases": []
+      },
+      {
+        "name": "우빈",
+        "english": "Woobin",
+        "aliases": []
+      },
+      {
+        "name": "원진",
+        "english": "Wonjin",
+        "aliases": []
+      },
+      {
+        "name": "민희",
+        "english": "Minhee",
+        "aliases": []
+      },
+      {
+        "name": "형준",
+        "english": "Hyeongjun",
+        "aliases": []
+      },
+      {
+        "name": "태영",
+        "english": "Taeyoung",
+        "aliases": []
+      },
+      {
+        "name": "성민",
+        "english": "Seongmin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet",
+      "https://en.wikipedia.org/wiki/Cravity"
+    ]
+  },
+  {
+    "name": "보이넥스트도어",
+    "english": "BOYNEXTDOOR",
+    "aliases": [
+      "보넥도"
+    ],
+    "members": [
+      {
+        "name": "성호",
+        "english": "Sungho",
+        "aliases": []
+      },
+      {
+        "name": "리우",
+        "english": "Riwoo",
+        "aliases": []
+      },
+      {
+        "name": "명재현",
+        "english": "Myung Jaehyun",
+        "aliases": [
+          "Jaehyun"
+        ]
+      },
+      {
+        "name": "태산",
+        "english": "Taesan",
+        "aliases": []
+      },
+      {
+        "name": "이한",
+        "english": "Leehan",
+        "aliases": []
+      },
+      {
+        "name": "운학",
+        "english": "Woonhak",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/BoyNextDoor"
+    ]
+  },
+  {
+    "name": "라이즈",
+    "english": "RIIZE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "쇼타로",
+        "english": "Shotaro",
+        "aliases": []
+      },
+      {
+        "name": "은석",
+        "english": "Eunseok",
+        "aliases": []
+      },
+      {
+        "name": "성찬",
+        "english": "Sungchan",
+        "aliases": []
+      },
+      {
+        "name": "원빈",
+        "english": "Wonbin",
+        "aliases": []
+      },
+      {
+        "name": "소희",
+        "english": "Sohee",
+        "aliases": []
+      },
+      {
+        "name": "앤톤",
+        "english": "Anton",
+        "aliases": []
+      },
+      {
+        "name": "승한",
+        "english": "Seunghan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo",
+      "https://en.wikipedia.org/wiki/Riize"
+    ]
+  },
+  {
+    "name": "제로베이스원",
+    "english": "ZEROBASEONE",
+    "aliases": [
+      "ZB1",
+      "제베원"
+    ],
+    "members": [
+      {
+        "name": "김지웅",
+        "english": "Kim Jiwoong",
+        "aliases": []
+      },
+      {
+        "name": "장하오",
+        "english": "Zhang Hao",
+        "aliases": []
+      },
+      {
+        "name": "성한빈",
+        "english": "Sung Hanbin",
+        "aliases": []
+      },
+      {
+        "name": "석매튜",
+        "english": "Seok Matthew",
+        "aliases": []
+      },
+      {
+        "name": "김태래",
+        "english": "Kim Taerae",
+        "aliases": []
+      },
+      {
+        "name": "리키",
+        "english": "Ricky",
+        "aliases": []
+      },
+      {
+        "name": "김규빈",
+        "english": "Kim Gyuvin",
+        "aliases": []
+      },
+      {
+        "name": "박건욱",
+        "english": "Park Gunwook",
+        "aliases": []
+      },
+      {
+        "name": "한유진",
+        "english": "Han Yujin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/Zerobaseone"
+    ]
+  },
+  {
+    "name": "투어스",
+    "english": "TWS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "신유",
+        "english": "Shinyu",
+        "aliases": []
+      },
+      {
+        "name": "도훈",
+        "english": "Dohoon",
+        "aliases": []
+      },
+      {
+        "name": "영재",
+        "english": "Youngjae",
+        "aliases": []
+      },
+      {
+        "name": "한진",
+        "english": "Hanjin",
+        "aliases": []
+      },
+      {
+        "name": "지훈",
+        "english": "Jihoon",
+        "aliases": []
+      },
+      {
+        "name": "경민",
+        "english": "Kyungmin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/TWS_(group)"
+    ]
+  },
+  {
+    "name": "엔시티 127",
+    "english": "NCT 127",
+    "aliases": [],
+    "members": [
+      {
+        "name": "태용",
+        "english": "Taeyong",
+        "aliases": []
+      },
+      {
+        "name": "쟈니",
+        "english": "Johnny",
+        "aliases": []
+      },
+      {
+        "name": "유타",
+        "english": "Yuta",
+        "aliases": []
+      },
+      {
+        "name": "도영",
+        "english": "Doyoung",
+        "aliases": []
+      },
+      {
+        "name": "재현",
+        "english": "Jaehyun",
+        "aliases": []
+      },
+      {
+        "name": "정우",
+        "english": "Jungwoo",
+        "aliases": []
+      },
+      {
+        "name": "마크",
+        "english": "Mark",
+        "aliases": []
+      },
+      {
+        "name": "해찬",
+        "english": "Haechan",
+        "aliases": []
+      },
+      {
+        "name": "태일",
+        "english": "Taeil",
+        "aliases": []
+      },
+      {
+        "name": "윈윈",
+        "english": "Winwin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1447993wpp/watch-performances-from-the-35th-golden-disc-awards-day-2",
+      "https://en.wikipedia.org/wiki/NCT_127"
+    ]
+  },
+  {
+    "name": "엔시티 드림",
+    "english": "NCT DREAM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "마크",
+        "english": "Mark",
+        "aliases": []
+      },
+      {
+        "name": "런쥔",
+        "english": "Renjun",
+        "aliases": []
+      },
+      {
+        "name": "제노",
+        "english": "Jeno",
+        "aliases": []
+      },
+      {
+        "name": "해찬",
+        "english": "Haechan",
+        "aliases": []
+      },
+      {
+        "name": "재민",
+        "english": "Jaemin",
+        "aliases": []
+      },
+      {
+        "name": "천러",
+        "english": "Chenle",
+        "aliases": []
+      },
+      {
+        "name": "지성",
+        "english": "Jisung",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm",
+      "https://en.wikipedia.org/wiki/NCT_Dream"
+    ]
+  },
+  {
+    "name": "엔시티 위시",
+    "english": "NCT WISH",
+    "aliases": [],
+    "members": [
+      {
+        "name": "시온",
+        "english": "Sion",
+        "aliases": []
+      },
+      {
+        "name": "리쿠",
+        "english": "Riku",
+        "aliases": []
+      },
+      {
+        "name": "유우시",
+        "english": "Yushi",
+        "aliases": []
+      },
+      {
+        "name": "재희",
+        "english": "Jaehee",
+        "aliases": []
+      },
+      {
+        "name": "료",
+        "english": "Ryo",
+        "aliases": []
+      },
+      {
+        "name": "사쿠야",
+        "english": "Sakuya",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/NCT_Wish"
+    ]
+  },
+  {
+    "name": "웨이션브이",
+    "english": "WayV",
+    "aliases": [
+      "웨이브이"
+    ],
+    "members": [
+      {
+        "name": "쿤",
+        "english": "Kun",
+        "aliases": []
+      },
+      {
+        "name": "텐",
+        "english": "Ten",
+        "aliases": []
+      },
+      {
+        "name": "윈윈",
+        "english": "Winwin",
+        "aliases": []
+      },
+      {
+        "name": "샤오쥔",
+        "english": "Xiaojun",
+        "aliases": []
+      },
+      {
+        "name": "헨드리",
+        "english": "Hendery",
+        "aliases": []
+      },
+      {
+        "name": "양양",
+        "english": "Yangyang",
+        "aliases": []
+      },
+      {
+        "name": "루카스",
+        "english": "Lucas",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/270296",
+      "https://en.wikipedia.org/wiki/WayV"
+    ]
+  },
+  {
+    "name": "샤이니",
+    "english": "SHINee",
+    "aliases": [],
+    "members": [
+      {
+        "name": "온유",
+        "english": "Onew",
+        "aliases": []
+      },
+      {
+        "name": "종현",
+        "english": "Jonghyun",
+        "aliases": []
+      },
+      {
+        "name": "키",
+        "english": "Key",
+        "aliases": []
+      },
+      {
+        "name": "민호",
+        "english": "Minho",
+        "aliases": []
+      },
+      {
+        "name": "태민",
+        "english": "Taemin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1629654wpp/watch-performances-from-melon-music-awards-2023",
+      "https://en.wikipedia.org/wiki/Shinee"
+    ]
+  },
+  {
+    "name": "슈퍼주니어",
+    "english": "Super Junior",
+    "aliases": [],
+    "members": [
+      {
+        "name": "이특",
+        "english": "Leeteuk",
+        "aliases": []
+      },
+      {
+        "name": "희철",
+        "english": "Heechul",
+        "aliases": []
+      },
+      {
+        "name": "예성",
+        "english": "Yesung",
+        "aliases": []
+      },
+      {
+        "name": "신동",
+        "english": "Shindong",
+        "aliases": []
+      },
+      {
+        "name": "은혁",
+        "english": "Eunhyuk",
+        "aliases": []
+      },
+      {
+        "name": "동해",
+        "english": "Donghae",
+        "aliases": []
+      },
+      {
+        "name": "시원",
+        "english": "Siwon",
+        "aliases": []
+      },
+      {
+        "name": "려욱",
+        "english": "Ryeowook",
+        "aliases": []
+      },
+      {
+        "name": "규현",
+        "english": "Kyuhyun",
+        "aliases": []
+      },
+      {
+        "name": "강인",
+        "english": "Kangin",
+        "aliases": []
+      },
+      {
+        "name": "성민",
+        "english": "Sungmin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Super_Junior"
+    ]
+  },
+  {
+    "name": "동방신기",
+    "english": "TVXQ!",
+    "aliases": [
+      "TVXQ",
+      "동방신기!"
+    ],
+    "members": [
+      {
+        "name": "유노윤호",
+        "english": "U-Know",
+        "aliases": [
+          "Yunho"
+        ]
+      },
+      {
+        "name": "최강창민",
+        "english": "Max Changmin",
+        "aliases": [
+          "Changmin"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/TVXQ"
+    ]
+  },
+  {
+    "name": "갓세븐",
+    "english": "GOT7",
+    "aliases": [],
+    "members": [
+      {
+        "name": "제이비",
+        "english": "JAY B",
+        "aliases": [
+          "JB"
+        ]
+      },
+      {
+        "name": "마크",
+        "english": "Mark Tuan",
+        "aliases": []
+      },
+      {
+        "name": "잭슨",
+        "english": "Jackson Wang",
+        "aliases": []
+      },
+      {
+        "name": "진영",
+        "english": "Jinyoung",
+        "aliases": []
+      },
+      {
+        "name": "영재",
+        "english": "Youngjae",
+        "aliases": []
+      },
+      {
+        "name": "뱀뱀",
+        "english": "BamBam",
+        "aliases": []
+      },
+      {
+        "name": "유겸",
+        "english": "Yugyeom",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Got7"
+    ]
+  },
+  {
+    "name": "비투비",
+    "english": "BTOB",
+    "aliases": [],
+    "members": [
+      {
+        "name": "서은광",
+        "english": "Seo Eunkwang",
+        "aliases": []
+      },
+      {
+        "name": "이민혁",
+        "english": "Lee Minhyuk",
+        "aliases": [
+          "HUTA"
+        ]
+      },
+      {
+        "name": "이창섭",
+        "english": "Lee Changsub",
+        "aliases": []
+      },
+      {
+        "name": "임현식",
+        "english": "Lim Hyunsik",
+        "aliases": []
+      },
+      {
+        "name": "프니엘",
+        "english": "Peniel",
+        "aliases": []
+      },
+      {
+        "name": "육성재",
+        "english": "Yook Sungjae",
+        "aliases": []
+      },
+      {
+        "name": "정일훈",
+        "english": "Jung Ilhoon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/BtoB_(band)"
+    ]
+  },
+  {
+    "name": "위너",
+    "english": "WINNER",
+    "aliases": [],
+    "members": [
+      {
+        "name": "강승윤",
+        "english": "Kang Seungyoon",
+        "aliases": []
+      },
+      {
+        "name": "김진우",
+        "english": "Kim Jinwoo",
+        "aliases": []
+      },
+      {
+        "name": "이승훈",
+        "english": "Lee Seunghoon",
+        "aliases": []
+      },
+      {
+        "name": "송민호",
+        "english": "Song Mino",
+        "aliases": [
+          "Mino"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Winner_(band)"
+    ]
+  },
+  {
+    "name": "아이콘",
+    "english": "iKON",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김진환",
+        "english": "Jay",
+        "aliases": [
+          "Kim Jinhwan"
+        ]
+      },
+      {
+        "name": "송윤형",
+        "english": "Song",
+        "aliases": [
+          "Song Yunhyeong"
+        ]
+      },
+      {
+        "name": "바비",
+        "english": "Bobby",
+        "aliases": []
+      },
+      {
+        "name": "김동혁",
+        "english": "DK",
+        "aliases": [
+          "Kim Donghyuk"
+        ]
+      },
+      {
+        "name": "구준회",
+        "english": "Ju-ne",
+        "aliases": [
+          "Koo Junhoe"
+        ]
+      },
+      {
+        "name": "정찬우",
+        "english": "Chan",
+        "aliases": [
+          "Jung Chanwoo"
+        ]
+      },
+      {
+        "name": "비아이",
+        "english": "B.I",
+        "aliases": [
+          "Kim Hanbin"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/IKon"
+    ]
+  },
+  {
+    "name": "워너원",
+    "english": "Wanna One",
+    "aliases": [],
+    "members": [
+      {
+        "name": "강다니엘",
+        "english": "Kang Daniel",
+        "aliases": []
+      },
+      {
+        "name": "박지훈",
+        "english": "Park Jihoon",
+        "aliases": []
+      },
+      {
+        "name": "이대휘",
+        "english": "Lee Daehwi",
+        "aliases": []
+      },
+      {
+        "name": "김재환",
+        "english": "Kim Jaehwan",
+        "aliases": []
+      },
+      {
+        "name": "옹성우",
+        "english": "Ong Seongwu",
+        "aliases": []
+      },
+      {
+        "name": "박우진",
+        "english": "Park Woojin",
+        "aliases": []
+      },
+      {
+        "name": "라이관린",
+        "english": "Lai Kuanlin",
+        "aliases": []
+      },
+      {
+        "name": "윤지성",
+        "english": "Yoon Jisung",
+        "aliases": []
+      },
+      {
+        "name": "황민현",
+        "english": "Hwang Minhyun",
+        "aliases": []
+      },
+      {
+        "name": "배진영",
+        "english": "Bae Jinyoung",
+        "aliases": []
+      },
+      {
+        "name": "하성운",
+        "english": "Ha Sungwoon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Wanna_One"
+    ]
+  },
+  {
+    "name": "뉴이스트",
+    "english": "NU’EST",
+    "aliases": [
+      "NUEST"
+    ],
+    "members": [
+      {
+        "name": "제이알",
+        "english": "JR",
+        "aliases": [
+          "김종현"
+        ]
+      },
+      {
+        "name": "아론",
+        "english": "Aron",
+        "aliases": []
+      },
+      {
+        "name": "백호",
+        "english": "Baekho",
+        "aliases": []
+      },
+      {
+        "name": "민현",
+        "english": "Minhyun",
+        "aliases": [
+          "황민현"
+        ]
+      },
+      {
+        "name": "렌",
+        "english": "Ren",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368116wpp/watch-performances-from-2019-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/NU'EST"
+    ]
+  },
+  {
+    "name": "뉴이스트 W",
+    "english": "NU’EST W",
+    "aliases": [
+      "NUEST W"
+    ],
+    "members": [
+      {
+        "name": "제이알",
+        "english": "JR",
+        "aliases": [
+          "김종현"
+        ]
+      },
+      {
+        "name": "아론",
+        "english": "Aron",
+        "aliases": []
+      },
+      {
+        "name": "백호",
+        "english": "Baekho",
+        "aliases": []
+      },
+      {
+        "name": "렌",
+        "english": "Ren",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/NU'EST_W"
+    ]
+  },
+  {
+    "name": "아스트로",
+    "english": "ASTRO",
+    "aliases": [],
+    "members": [
+      {
+        "name": "엠제이",
+        "english": "MJ",
+        "aliases": []
+      },
+      {
+        "name": "진진",
+        "english": "Jinjin",
+        "aliases": []
+      },
+      {
+        "name": "차은우",
+        "english": "Cha Eunwoo",
+        "aliases": []
+      },
+      {
+        "name": "문빈",
+        "english": "Moonbin",
+        "aliases": []
+      },
+      {
+        "name": "라키",
+        "english": "Rocky",
+        "aliases": []
+      },
+      {
+        "name": "윤산하",
+        "english": "Yoon Sanha",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Astro_(South_Korean_band)"
+    ]
+  },
+  {
+    "name": "빅스",
+    "english": "VIXX",
+    "aliases": [],
+    "members": [
+      {
+        "name": "엔",
+        "english": "N",
+        "aliases": [
+          "차학연"
+        ]
+      },
+      {
+        "name": "레오",
+        "english": "Leo",
+        "aliases": []
+      },
+      {
+        "name": "켄",
+        "english": "Ken",
+        "aliases": []
+      },
+      {
+        "name": "라비",
+        "english": "Ravi",
+        "aliases": []
+      },
+      {
+        "name": "홍빈",
+        "english": "Hongbin",
+        "aliases": []
+      },
+      {
+        "name": "혁",
+        "english": "Hyuk",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/VIXX"
+    ]
+  },
+  {
+    "name": "펜타곤",
+    "english": "PENTAGON",
+    "aliases": [],
+    "members": [
+      {
+        "name": "진호",
+        "english": "Jinho",
+        "aliases": []
+      },
+      {
+        "name": "후이",
+        "english": "Hui",
+        "aliases": []
+      },
+      {
+        "name": "홍석",
+        "english": "Hongseok",
+        "aliases": []
+      },
+      {
+        "name": "신원",
+        "english": "Shinwon",
+        "aliases": []
+      },
+      {
+        "name": "여원",
+        "english": "Yeo One",
+        "aliases": []
+      },
+      {
+        "name": "옌안",
+        "english": "Yanan",
+        "aliases": []
+      },
+      {
+        "name": "유토",
+        "english": "Yuto",
+        "aliases": []
+      },
+      {
+        "name": "키노",
+        "english": "Kino",
+        "aliases": []
+      },
+      {
+        "name": "우석",
+        "english": "Wooseok",
+        "aliases": []
+      },
+      {
+        "name": "이던",
+        "english": "E’Dawn",
+        "aliases": [
+          "DAWN"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet",
+      "https://en.wikipedia.org/wiki/Pentagon_(South_Korean_band)"
+    ]
+  },
+  {
+    "name": "에이비식스",
+    "english": "AB6IX",
+    "aliases": [],
+    "members": [
+      {
+        "name": "전웅",
+        "english": "Jeon Woong",
+        "aliases": []
+      },
+      {
+        "name": "김동현",
+        "english": "Kim Donghyun",
+        "aliases": []
+      },
+      {
+        "name": "박우진",
+        "english": "Park Woojin",
+        "aliases": []
+      },
+      {
+        "name": "이대휘",
+        "english": "Lee Daehwi",
+        "aliases": []
+      },
+      {
+        "name": "임영민",
+        "english": "Lim Youngmin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019",
+      "https://en.wikipedia.org/wiki/AB6IX"
+    ]
+  },
+  {
+    "name": "원어스",
+    "english": "ONEUS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "서호",
+        "english": "Seoho",
+        "aliases": []
+      },
+      {
+        "name": "이도",
+        "english": "Leedo",
+        "aliases": []
+      },
+      {
+        "name": "건희",
+        "english": "Keonhee",
+        "aliases": []
+      },
+      {
+        "name": "환웅",
+        "english": "Hwanwoong",
+        "aliases": []
+      },
+      {
+        "name": "시온",
+        "english": "Xion",
+        "aliases": []
+      },
+      {
+        "name": "레이븐",
+        "english": "Ravn",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet",
+      "https://en.wikipedia.org/wiki/Oneus"
+    ]
+  },
+  {
+    "name": "에스에프나인",
+    "english": "SF9",
+    "aliases": [],
+    "members": [
+      {
+        "name": "영빈",
+        "english": "Youngbin",
+        "aliases": []
+      },
+      {
+        "name": "인성",
+        "english": "Inseong",
+        "aliases": []
+      },
+      {
+        "name": "재윤",
+        "english": "Jaeyoon",
+        "aliases": []
+      },
+      {
+        "name": "다원",
+        "english": "Dawon",
+        "aliases": []
+      },
+      {
+        "name": "주호",
+        "english": "Zuho",
+        "aliases": []
+      },
+      {
+        "name": "유태양",
+        "english": "Yoo Taeyang",
+        "aliases": []
+      },
+      {
+        "name": "휘영",
+        "english": "Hwiyoung",
+        "aliases": []
+      },
+      {
+        "name": "찬희",
+        "english": "Chani",
+        "aliases": []
+      },
+      {
+        "name": "로운",
+        "english": "Rowoon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/SF9"
+    ]
+  },
+  {
+    "name": "카드",
+    "english": "KARD",
+    "aliases": [],
+    "members": [
+      {
+        "name": "비엠",
+        "english": "BM",
+        "aliases": []
+      },
+      {
+        "name": "제이셉",
+        "english": "J.Seph",
+        "aliases": []
+      },
+      {
+        "name": "전소민",
+        "english": "Jeon Somin",
+        "aliases": []
+      },
+      {
+        "name": "전지우",
+        "english": "Jeon Jiwoo",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Kard_(group)"
+    ]
+  },
+  {
+    "name": "에이핑크",
+    "english": "Apink",
+    "aliases": [],
+    "members": [
+      {
+        "name": "박초롱",
+        "english": "Park Chorong",
+        "aliases": []
+      },
+      {
+        "name": "윤보미",
+        "english": "Yoon Bomi",
+        "aliases": []
+      },
+      {
+        "name": "정은지",
+        "english": "Jeong Eunji",
+        "aliases": []
+      },
+      {
+        "name": "김남주",
+        "english": "Kim Namjoo",
+        "aliases": []
+      },
+      {
+        "name": "오하영",
+        "english": "Oh Hayoung",
+        "aliases": []
+      },
+      {
+        "name": "손나은",
+        "english": "Son Naeun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Apink"
+    ]
+  },
+  {
+    "name": "오마이걸",
+    "english": "OH MY GIRL",
+    "aliases": [],
+    "members": [
+      {
+        "name": "효정",
+        "english": "Hyojung",
+        "aliases": []
+      },
+      {
+        "name": "미미",
+        "english": "Mimi",
+        "aliases": []
+      },
+      {
+        "name": "유아",
+        "english": "YooA",
+        "aliases": []
+      },
+      {
+        "name": "승희",
+        "english": "Seunghee",
+        "aliases": []
+      },
+      {
+        "name": "유빈",
+        "english": "Yubin",
+        "aliases": [
+          "Binnie",
+          "비니"
+        ]
+      },
+      {
+        "name": "아린",
+        "english": "Arin",
+        "aliases": []
+      },
+      {
+        "name": "지호",
+        "english": "Jiho",
+        "aliases": []
+      },
+      {
+        "name": "진이",
+        "english": "JinE",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020",
+      "https://en.wikipedia.org/wiki/Oh_My_Girl"
+    ]
+  },
+  {
+    "name": "우주소녀",
+    "english": "WJSN",
+    "aliases": [
+      "Cosmic Girls"
+    ],
+    "members": [
+      {
+        "name": "엑시",
+        "english": "Exy",
+        "aliases": []
+      },
+      {
+        "name": "설아",
+        "english": "Seola",
+        "aliases": []
+      },
+      {
+        "name": "보나",
+        "english": "Bona",
+        "aliases": []
+      },
+      {
+        "name": "수빈",
+        "english": "Soobin",
+        "aliases": []
+      },
+      {
+        "name": "루다",
+        "english": "Luda",
+        "aliases": []
+      },
+      {
+        "name": "다원",
+        "english": "Dawon",
+        "aliases": []
+      },
+      {
+        "name": "은서",
+        "english": "Eunseo",
+        "aliases": []
+      },
+      {
+        "name": "여름",
+        "english": "Yeoreum",
+        "aliases": []
+      },
+      {
+        "name": "다영",
+        "english": "Dayoung",
+        "aliases": []
+      },
+      {
+        "name": "연정",
+        "english": "Yeonjung",
+        "aliases": []
+      },
+      {
+        "name": "선의",
+        "english": "Xuanyi",
+        "aliases": []
+      },
+      {
+        "name": "성소",
+        "english": "Cheng Xiao",
+        "aliases": []
+      },
+      {
+        "name": "미기",
+        "english": "Meiqi",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/WJSN"
+    ]
+  },
+  {
+    "name": "우주소녀 쪼꼬미",
+    "english": "WJSN CHOCOME",
+    "aliases": [],
+    "members": [
+      {
+        "name": "수빈",
+        "english": "Soobin",
+        "aliases": []
+      },
+      {
+        "name": "루다",
+        "english": "Luda",
+        "aliases": []
+      },
+      {
+        "name": "여름",
+        "english": "Yeoreum",
+        "aliases": []
+      },
+      {
+        "name": "다영",
+        "english": "Dayoung",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/WJSN_Chocome"
+    ]
+  },
+  {
+    "name": "아이즈원",
+    "english": "IZ*ONE",
+    "aliases": [
+      "IZONE"
+    ],
+    "members": [
+      {
+        "name": "권은비",
+        "english": "Kwon Eunbi",
+        "aliases": []
+      },
+      {
+        "name": "미야와키 사쿠라",
+        "english": "Miyawaki Sakura",
+        "aliases": []
+      },
+      {
+        "name": "강혜원",
+        "english": "Kang Hyewon",
+        "aliases": []
+      },
+      {
+        "name": "최예나",
+        "english": "Choi Yena",
+        "aliases": []
+      },
+      {
+        "name": "이채연",
+        "english": "Lee Chaeyeon",
+        "aliases": []
+      },
+      {
+        "name": "김채원",
+        "english": "Kim Chaewon",
+        "aliases": []
+      },
+      {
+        "name": "김민주",
+        "english": "Kim Minju",
+        "aliases": []
+      },
+      {
+        "name": "야부키 나코",
+        "english": "Yabuki Nako",
+        "aliases": []
+      },
+      {
+        "name": "혼다 히토미",
+        "english": "Honda Hitomi",
+        "aliases": []
+      },
+      {
+        "name": "조유리",
+        "english": "Jo Yuri",
+        "aliases": []
+      },
+      {
+        "name": "안유진",
+        "english": "An Yujin",
+        "aliases": []
+      },
+      {
+        "name": "장원영",
+        "english": "Jang Wonyoung",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Iz*One"
+    ]
+  },
+  {
+    "name": "이달의 소녀",
+    "english": "LOONA",
+    "aliases": [],
+    "members": [
+      {
+        "name": "희진",
+        "english": "Heejin",
+        "aliases": []
+      },
+      {
+        "name": "현진",
+        "english": "Hyunjin",
+        "aliases": []
+      },
+      {
+        "name": "하슬",
+        "english": "Haseul",
+        "aliases": []
+      },
+      {
+        "name": "여진",
+        "english": "Yeojin",
+        "aliases": []
+      },
+      {
+        "name": "비비",
+        "english": "Vivi",
+        "aliases": []
+      },
+      {
+        "name": "김립",
+        "english": "Kim Lip",
+        "aliases": []
+      },
+      {
+        "name": "진솔",
+        "english": "Jinsoul",
+        "aliases": []
+      },
+      {
+        "name": "최리",
+        "english": "Choerry",
+        "aliases": []
+      },
+      {
+        "name": "이브",
+        "english": "Yves",
+        "aliases": []
+      },
+      {
+        "name": "츄",
+        "english": "Chuu",
+        "aliases": []
+      },
+      {
+        "name": "고원",
+        "english": "Gowon",
+        "aliases": []
+      },
+      {
+        "name": "올리비아 혜",
+        "english": "Olivia Hye",
+        "aliases": [
+          "Hyeju",
+          "혜주"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368116wpp/watch-performances-from-2019-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Loona"
+    ]
+  },
+  {
+    "name": "프로미스나인",
+    "english": "fromis_9",
+    "aliases": [
+      "프로미스 나인"
+    ],
+    "members": [
+      {
+        "name": "이새롬",
+        "english": "Lee Saerom",
+        "aliases": []
+      },
+      {
+        "name": "송하영",
+        "english": "Song Hayoung",
+        "aliases": []
+      },
+      {
+        "name": "박지원",
+        "english": "Park Jiwon",
+        "aliases": []
+      },
+      {
+        "name": "노지선",
+        "english": "Roh Jisun",
+        "aliases": []
+      },
+      {
+        "name": "이서연",
+        "english": "Lee Seoyeon",
+        "aliases": []
+      },
+      {
+        "name": "이채영",
+        "english": "Lee Chaeyoung",
+        "aliases": []
+      },
+      {
+        "name": "이나경",
+        "english": "Lee Nagyung",
+        "aliases": []
+      },
+      {
+        "name": "백지헌",
+        "english": "Baek Jiheon",
+        "aliases": []
+      },
+      {
+        "name": "장규리",
+        "english": "Jang Gyuri",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Fromis_9"
+    ]
+  },
+  {
+    "name": "모모랜드",
+    "english": "MOMOLAND",
+    "aliases": [],
+    "members": [
+      {
+        "name": "혜빈",
+        "english": "Hyebin",
+        "aliases": []
+      },
+      {
+        "name": "제인",
+        "english": "Jane",
+        "aliases": []
+      },
+      {
+        "name": "나윤",
+        "english": "Nayun",
+        "aliases": []
+      },
+      {
+        "name": "주이",
+        "english": "JooE",
+        "aliases": []
+      },
+      {
+        "name": "아인",
+        "english": "Ahin",
+        "aliases": []
+      },
+      {
+        "name": "낸시",
+        "english": "Nancy",
+        "aliases": []
+      },
+      {
+        "name": "연우",
+        "english": "Yeonwoo",
+        "aliases": []
+      },
+      {
+        "name": "태하",
+        "english": "Taeha",
+        "aliases": []
+      },
+      {
+        "name": "데이지",
+        "english": "Daisy",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1271997wpp/performances-2018-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Momoland"
+    ]
+  },
+  {
+    "name": "다이아",
+    "english": "DIA",
+    "aliases": [],
+    "members": [
+      {
+        "name": "유니스",
+        "english": "Eunice",
+        "aliases": []
+      },
+      {
+        "name": "기희현",
+        "english": "Ki Huihyeon",
+        "aliases": []
+      },
+      {
+        "name": "제니",
+        "english": "Jenny",
+        "aliases": []
+      },
+      {
+        "name": "정채연",
+        "english": "Jung Chaeyeon",
+        "aliases": []
+      },
+      {
+        "name": "은진",
+        "english": "Eunjin",
+        "aliases": []
+      },
+      {
+        "name": "예빈",
+        "english": "Yebin",
+        "aliases": []
+      },
+      {
+        "name": "은채",
+        "english": "Eunchae",
+        "aliases": []
+      },
+      {
+        "name": "주은",
+        "english": "Jueun",
+        "aliases": []
+      },
+      {
+        "name": "솜이",
+        "english": "Somyi",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/DIA_(group)"
+    ]
+  },
+  {
+    "name": "구구단",
+    "english": "gugudan",
+    "aliases": [],
+    "members": [
+      {
+        "name": "미미",
+        "english": "Mimi",
+        "aliases": []
+      },
+      {
+        "name": "하나",
+        "english": "Hana",
+        "aliases": []
+      },
+      {
+        "name": "해빈",
+        "english": "Haebin",
+        "aliases": []
+      },
+      {
+        "name": "나영",
+        "english": "Nayoung",
+        "aliases": []
+      },
+      {
+        "name": "세정",
+        "english": "Sejeong",
+        "aliases": []
+      },
+      {
+        "name": "소이",
+        "english": "Soyee",
+        "aliases": []
+      },
+      {
+        "name": "샐리",
+        "english": "Sally",
+        "aliases": []
+      },
+      {
+        "name": "미나",
+        "english": "Mina",
+        "aliases": []
+      },
+      {
+        "name": "혜연",
+        "english": "Hyeyeon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Gugudan"
+    ]
+  },
+  {
+    "name": "프리스틴",
+    "english": "PRISTIN",
+    "aliases": [],
+    "members": [
+      {
+        "name": "나영",
+        "english": "Nayoung",
+        "aliases": []
+      },
+      {
+        "name": "로아",
+        "english": "Roa",
+        "aliases": []
+      },
+      {
+        "name": "유하",
+        "english": "Yuha",
+        "aliases": []
+      },
+      {
+        "name": "은우",
+        "english": "Eunwoo",
+        "aliases": []
+      },
+      {
+        "name": "레나",
+        "english": "Rena",
+        "aliases": []
+      },
+      {
+        "name": "결경",
+        "english": "Kyulkyung",
+        "aliases": []
+      },
+      {
+        "name": "예하나",
+        "english": "Yehana",
+        "aliases": []
+      },
+      {
+        "name": "성연",
+        "english": "Sungyeon",
+        "aliases": []
+      },
+      {
+        "name": "시연",
+        "english": "Xiyeon",
+        "aliases": []
+      },
+      {
+        "name": "카일라",
+        "english": "Kyla",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Pristin"
+    ]
+  },
+  {
+    "name": "에이오에이",
+    "english": "AOA",
+    "aliases": [],
+    "members": [
+      {
+        "name": "지민",
+        "english": "Jimin",
+        "aliases": []
+      },
+      {
+        "name": "초아",
+        "english": "Choa",
+        "aliases": []
+      },
+      {
+        "name": "유나",
+        "english": "Yuna",
+        "aliases": []
+      },
+      {
+        "name": "혜정",
+        "english": "Hyejeong",
+        "aliases": []
+      },
+      {
+        "name": "민아",
+        "english": "Mina",
+        "aliases": []
+      },
+      {
+        "name": "설현",
+        "english": "Seolhyun",
+        "aliases": []
+      },
+      {
+        "name": "찬미",
+        "english": "Chanmi",
+        "aliases": [
+          "Dohwa",
+          "도화"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/AOA_(group)"
+    ]
+  },
+  {
+    "name": "브브걸",
+    "english": "BBGIRLS",
+    "aliases": [
+      "브레이브걸스",
+      "Brave Girls"
+    ],
+    "members": [
+      {
+        "name": "민영",
+        "english": "Minyoung",
+        "aliases": []
+      },
+      {
+        "name": "유정",
+        "english": "Yujeong",
+        "aliases": []
+      },
+      {
+        "name": "은지",
+        "english": "Eunji",
+        "aliases": []
+      },
+      {
+        "name": "유나",
+        "english": "Yuna",
+        "aliases": []
+      },
+      {
+        "name": "유진",
+        "english": "Yoojin",
+        "aliases": []
+      },
+      {
+        "name": "혜란",
+        "english": "Hyeran",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1502196wpp/watch-performances-from-melon-music-awards-2021",
+      "https://en.wikipedia.org/wiki/Brave_Girls"
+    ]
+  },
+  {
+    "name": "드림캐쳐",
+    "english": "Dreamcatcher",
+    "aliases": [],
+    "members": [
+      {
+        "name": "지유",
+        "english": "JiU",
+        "aliases": []
+      },
+      {
+        "name": "수아",
+        "english": "SuA",
+        "aliases": []
+      },
+      {
+        "name": "시연",
+        "english": "Siyeon",
+        "aliases": []
+      },
+      {
+        "name": "한동",
+        "english": "Handong",
+        "aliases": []
+      },
+      {
+        "name": "유현",
+        "english": "Yoohyeon",
+        "aliases": []
+      },
+      {
+        "name": "다미",
+        "english": "Dami",
+        "aliases": []
+      },
+      {
+        "name": "가현",
+        "english": "Gahyun",
+        "aliases": [
+          "Gahyeon"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/Dreamcatcher_(group)"
+    ]
+  },
+  {
+    "name": "라필루스",
+    "english": "Lapillus",
+    "aliases": [],
+    "members": [
+      {
+        "name": "샨티",
+        "english": "Chanty",
+        "aliases": []
+      },
+      {
+        "name": "샤나",
+        "english": "Shana",
+        "aliases": []
+      },
+      {
+        "name": "유에",
+        "english": "Yue",
+        "aliases": []
+      },
+      {
+        "name": "베시",
+        "english": "Bessie",
+        "aliases": []
+      },
+      {
+        "name": "서원",
+        "english": "Seowon",
+        "aliases": []
+      },
+      {
+        "name": "하은",
+        "english": "Haeun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/Lapillus"
+    ]
+  },
+  {
+    "name": "라잇썸",
+    "english": "LIGHTSUM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "상아",
+        "english": "Sangah",
+        "aliases": []
+      },
+      {
+        "name": "초원",
+        "english": "Chowon",
+        "aliases": []
+      },
+      {
+        "name": "나영",
+        "english": "Nayoung",
+        "aliases": []
+      },
+      {
+        "name": "히나",
+        "english": "Hina",
+        "aliases": []
+      },
+      {
+        "name": "주현",
+        "english": "Juhyeon",
+        "aliases": []
+      },
+      {
+        "name": "유정",
+        "english": "Yujeong",
+        "aliases": []
+      },
+      {
+        "name": "휘연",
+        "english": "Huiyeon",
+        "aliases": []
+      },
+      {
+        "name": "지안",
+        "english": "Jian",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/Lightsum"
+    ]
+  },
+  {
+    "name": "시크릿넘버",
+    "english": "SECRET NUMBER",
+    "aliases": [],
+    "members": [
+      {
+        "name": "레아",
+        "english": "Léa",
+        "aliases": [
+          "Lea"
+        ]
+      },
+      {
+        "name": "디타",
+        "english": "Dita",
+        "aliases": []
+      },
+      {
+        "name": "진희",
+        "english": "Jinny",
+        "aliases": []
+      },
+      {
+        "name": "민지",
+        "english": "Minji",
+        "aliases": []
+      },
+      {
+        "name": "수담",
+        "english": "Soodam",
+        "aliases": []
+      },
+      {
+        "name": "주",
+        "english": "Zuu",
+        "aliases": []
+      },
+      {
+        "name": "데니스",
+        "english": "Denise",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet",
+      "https://en.wikipedia.org/wiki/Secret_Number"
+    ]
+  },
+  {
+    "name": "템페스트",
+    "english": "TEMPEST",
+    "aliases": [],
+    "members": [
+      {
+        "name": "한빈",
+        "english": "Hanbin",
+        "aliases": []
+      },
+      {
+        "name": "형섭",
+        "english": "Hyeongseop",
+        "aliases": []
+      },
+      {
+        "name": "혁",
+        "english": "Hyuk",
+        "aliases": []
+      },
+      {
+        "name": "은찬",
+        "english": "Eunchan",
+        "aliases": []
+      },
+      {
+        "name": "루",
+        "english": "LEW",
+        "aliases": []
+      },
+      {
+        "name": "화랑",
+        "english": "Hwarang",
+        "aliases": []
+      },
+      {
+        "name": "태래",
+        "english": "Taerae",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/Tempest_(South_Korean_band)"
+    ]
+  },
+  {
+    "name": "더킹덤",
+    "english": "The KingDom",
+    "aliases": [
+      "KINGDOM",
+      "킹덤"
+    ],
+    "members": [
+      {
+        "name": "훤",
+        "english": "Hwon",
+        "aliases": []
+      },
+      {
+        "name": "자한",
+        "english": "Jahan",
+        "aliases": []
+      },
+      {
+        "name": "단",
+        "english": "Dann",
+        "aliases": []
+      },
+      {
+        "name": "아서",
+        "english": "Arthur",
+        "aliases": []
+      },
+      {
+        "name": "무진",
+        "english": "Mujin",
+        "aliases": []
+      },
+      {
+        "name": "루이",
+        "english": "Louis",
+        "aliases": []
+      },
+      {
+        "name": "아이반",
+        "english": "Ivan",
+        "aliases": []
+      },
+      {
+        "name": "치우",
+        "english": "Chiwoo",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/The_KingDom"
+    ]
+  },
+  {
+    "name": "티에프엔",
+    "english": "TFN",
+    "aliases": [
+      "T1419"
+    ],
+    "members": [
+      {
+        "name": "노아",
+        "english": "Noa",
+        "aliases": []
+      },
+      {
+        "name": "시안",
+        "english": "Sian",
+        "aliases": []
+      },
+      {
+        "name": "케빈",
+        "english": "Kevin",
+        "aliases": []
+      },
+      {
+        "name": "건우",
+        "english": "Gunwoo",
+        "aliases": []
+      },
+      {
+        "name": "레오",
+        "english": "Leo",
+        "aliases": []
+      },
+      {
+        "name": "온",
+        "english": "On",
+        "aliases": []
+      },
+      {
+        "name": "제로",
+        "english": "Zero",
+        "aliases": []
+      },
+      {
+        "name": "카이리",
+        "english": "Kairi",
+        "aliases": []
+      },
+      {
+        "name": "키오",
+        "english": "Kio",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/TFN_(group)"
+    ]
+  },
+  {
+    "name": "트렌드지",
+    "english": "TRENDZ",
+    "aliases": [],
+    "members": [
+      {
+        "name": "하빛",
+        "english": "Havit",
+        "aliases": []
+      },
+      {
+        "name": "리온",
+        "english": "Leon",
+        "aliases": []
+      },
+      {
+        "name": "윤우",
+        "english": "Yoonwoo",
+        "aliases": []
+      },
+      {
+        "name": "한국",
+        "english": "Hankook",
+        "aliases": []
+      },
+      {
+        "name": "라엘",
+        "english": "ra.L",
+        "aliases": []
+      },
+      {
+        "name": "은일",
+        "english": "Eunil",
+        "aliases": []
+      },
+      {
+        "name": "예찬",
+        "english": "Yechan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/Trendz"
+    ]
+  },
+  {
+    "name": "에이티비오",
+    "english": "ATBO",
+    "aliases": [],
+    "members": [
+      {
+        "name": "오준석",
+        "english": "Oh Junseok",
+        "aliases": []
+      },
+      {
+        "name": "류준민",
+        "english": "Ryu Junmin",
+        "aliases": []
+      },
+      {
+        "name": "배현준",
+        "english": "Bae Hyunjun",
+        "aliases": []
+      },
+      {
+        "name": "석락원",
+        "english": "Seok Rakwon",
+        "aliases": []
+      },
+      {
+        "name": "정승환",
+        "english": "Jeong Seunghwan",
+        "aliases": []
+      },
+      {
+        "name": "김연규",
+        "english": "Kim Yeonkyu",
+        "aliases": []
+      },
+      {
+        "name": "원빈",
+        "english": "Won Bin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022",
+      "https://en.wikipedia.org/wiki/ATBO"
+    ]
+  },
+  {
+    "name": "싸이커스",
+    "english": "xikers",
+    "aliases": [],
+    "members": [
+      {
+        "name": "민재",
+        "english": "Minjae",
+        "aliases": []
+      },
+      {
+        "name": "준민",
+        "english": "Junmin",
+        "aliases": []
+      },
+      {
+        "name": "수민",
+        "english": "Sumin",
+        "aliases": []
+      },
+      {
+        "name": "진식",
+        "english": "Jinsik",
+        "aliases": []
+      },
+      {
+        "name": "현우",
+        "english": "Hyunwoo",
+        "aliases": []
+      },
+      {
+        "name": "정훈",
+        "english": "Junghoon",
+        "aliases": []
+      },
+      {
+        "name": "세은",
+        "english": "Seeun",
+        "aliases": []
+      },
+      {
+        "name": "유준",
+        "english": "Yujun",
+        "aliases": []
+      },
+      {
+        "name": "헌터",
+        "english": "Hunter",
+        "aliases": []
+      },
+      {
+        "name": "예찬",
+        "english": "Yechan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/Xikers"
+    ]
+  },
+  {
+    "name": "엔싸인",
+    "english": "n.SSign",
+    "aliases": [],
+    "members": [
+      {
+        "name": "카즈타",
+        "english": "Kazuta",
+        "aliases": []
+      },
+      {
+        "name": "현",
+        "english": "Hyeon",
+        "aliases": []
+      },
+      {
+        "name": "에디",
+        "english": "Eddie",
+        "aliases": []
+      },
+      {
+        "name": "도하",
+        "english": "Doha",
+        "aliases": []
+      },
+      {
+        "name": "준혁",
+        "english": "Junhyeok",
+        "aliases": []
+      },
+      {
+        "name": "성윤",
+        "english": "Sungyun",
+        "aliases": []
+      },
+      {
+        "name": "로렌스",
+        "english": "Laurence",
+        "aliases": []
+      },
+      {
+        "name": "희원",
+        "english": "Huiwon",
+        "aliases": []
+      },
+      {
+        "name": "로빈",
+        "english": "Robin",
+        "aliases": []
+      },
+      {
+        "name": "한준",
+        "english": "Hanjun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/N.SSign"
+    ]
+  },
+  {
+    "name": "우아",
+    "english": "WOOAH",
+    "aliases": [
+      "woo!ah!"
+    ],
+    "members": [
+      {
+        "name": "나나",
+        "english": "Nana",
+        "aliases": []
+      },
+      {
+        "name": "우연",
+        "english": "Wooyeon",
+        "aliases": []
+      },
+      {
+        "name": "소라",
+        "english": "Sora",
+        "aliases": []
+      },
+      {
+        "name": "루시",
+        "english": "Lucy",
+        "aliases": []
+      },
+      {
+        "name": "민서",
+        "english": "Minseo",
+        "aliases": []
+      },
+      {
+        "name": "송이",
+        "english": "Songyee",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/Wooah"
+    ]
+  },
+  {
+    "name": "유니스",
+    "english": "UNIS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "현주",
+        "english": "Hyeonju",
+        "aliases": []
+      },
+      {
+        "name": "나나",
+        "english": "Nana",
+        "aliases": []
+      },
+      {
+        "name": "젤리당카",
+        "english": "Gehlee Dangca",
+        "aliases": []
+      },
+      {
+        "name": "코토코",
+        "english": "Kotoko",
+        "aliases": []
+      },
+      {
+        "name": "방윤하",
+        "english": "Bang Yunha",
+        "aliases": []
+      },
+      {
+        "name": "엘리시아",
+        "english": "Elisia",
+        "aliases": []
+      },
+      {
+        "name": "오윤아",
+        "english": "Oh Yoona",
+        "aliases": []
+      },
+      {
+        "name": "임서원",
+        "english": "Lim Seowon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/Unis_(group)"
+    ]
+  },
+  {
+    "name": "넥스지",
+    "english": "NEXZ",
+    "aliases": [],
+    "members": [
+      {
+        "name": "토모야",
+        "english": "Tomoya",
+        "aliases": []
+      },
+      {
+        "name": "유우",
+        "english": "Yu",
+        "aliases": []
+      },
+      {
+        "name": "하루",
+        "english": "Haru",
+        "aliases": []
+      },
+      {
+        "name": "소건",
+        "english": "So Geon",
+        "aliases": []
+      },
+      {
+        "name": "세이타",
+        "english": "Seita",
+        "aliases": []
+      },
+      {
+        "name": "휴이",
+        "english": "Hyui",
+        "aliases": []
+      },
+      {
+        "name": "유키",
+        "english": "Yuki",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/Nexz"
+    ]
+  },
+  {
+    "name": "니쥬",
+    "english": "NiziU",
+    "aliases": [],
+    "members": [
+      {
+        "name": "마코",
+        "english": "Mako",
+        "aliases": []
+      },
+      {
+        "name": "리오",
+        "english": "Rio",
+        "aliases": []
+      },
+      {
+        "name": "마야",
+        "english": "Maya",
+        "aliases": []
+      },
+      {
+        "name": "리쿠",
+        "english": "Riku",
+        "aliases": []
+      },
+      {
+        "name": "아야카",
+        "english": "Ayaka",
+        "aliases": []
+      },
+      {
+        "name": "마유카",
+        "english": "Mayuka",
+        "aliases": []
+      },
+      {
+        "name": "리마",
+        "english": "Rima",
+        "aliases": []
+      },
+      {
+        "name": "미이히",
+        "english": "Miihi",
+        "aliases": []
+      },
+      {
+        "name": "니나",
+        "english": "Nina",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/NiziU"
+    ]
+  },
+  {
+    "name": "앤팀",
+    "english": "&TEAM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "케이",
+        "english": "K",
+        "aliases": []
+      },
+      {
+        "name": "후마",
+        "english": "Fuma",
+        "aliases": []
+      },
+      {
+        "name": "니콜라스",
+        "english": "Nicholas",
+        "aliases": []
+      },
+      {
+        "name": "의주",
+        "english": "EJ",
+        "aliases": []
+      },
+      {
+        "name": "유마",
+        "english": "Yuma",
+        "aliases": []
+      },
+      {
+        "name": "조",
+        "english": "Jo",
+        "aliases": []
+      },
+      {
+        "name": "하루아",
+        "english": "Harua",
+        "aliases": []
+      },
+      {
+        "name": "타키",
+        "english": "Taki",
+        "aliases": []
+      },
+      {
+        "name": "마키",
+        "english": "Maki",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310",
+      "https://en.wikipedia.org/wiki/%26Team"
+    ]
+  },
+  {
+    "name": "아일릿",
+    "english": "ILLIT",
+    "aliases": [],
+    "members": [
+      {
+        "name": "윤아",
+        "english": "Yunah",
+        "aliases": []
+      },
+      {
+        "name": "민주",
+        "english": "Minju",
+        "aliases": []
+      },
+      {
+        "name": "모카",
+        "english": "Moka",
+        "aliases": []
+      },
+      {
+        "name": "원희",
+        "english": "Wonhee",
+        "aliases": []
+      },
+      {
+        "name": "이로하",
+        "english": "Iroha",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/Illit"
+    ]
+  },
+  {
+    "name": "베이비몬스터",
+    "english": "BABYMONSTER",
+    "aliases": [],
+    "members": [
+      {
+        "name": "루카",
+        "english": "Ruka",
+        "aliases": []
+      },
+      {
+        "name": "파리타",
+        "english": "Pharita",
+        "aliases": []
+      },
+      {
+        "name": "아사",
+        "english": "Asa",
+        "aliases": []
+      },
+      {
+        "name": "아현",
+        "english": "Ahyeon",
+        "aliases": []
+      },
+      {
+        "name": "라미",
+        "english": "Rami",
+        "aliases": []
+      },
+      {
+        "name": "로라",
+        "english": "Rora",
+        "aliases": []
+      },
+      {
+        "name": "치키타",
+        "english": "Chiquita",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://front.mnetplus.world/en/news/2025-mama-awards-demonstrates-musics-power-to-heal-and-unite-in-moving-two-nights-performances/",
+      "https://en.wikipedia.org/wiki/Babymonster"
+    ]
+  },
+  {
+    "name": "미야오",
+    "english": "MEOVV",
+    "aliases": [],
+    "members": [
+      {
+        "name": "수인",
+        "english": "Sooin",
+        "aliases": []
+      },
+      {
+        "name": "가원",
+        "english": "Gawon",
+        "aliases": []
+      },
+      {
+        "name": "안나",
+        "english": "Anna",
+        "aliases": []
+      },
+      {
+        "name": "나린",
+        "english": "Narin",
+        "aliases": []
+      },
+      {
+        "name": "엘라",
+        "english": "Ella",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/Meovv"
+    ]
+  },
+  {
+    "name": "키스오브라이프",
+    "english": "KISS OF LIFE",
+    "aliases": [
+      "키오프"
+    ],
+    "members": [
+      {
+        "name": "쥴리",
+        "english": "Julie",
+        "aliases": []
+      },
+      {
+        "name": "나띠",
+        "english": "Natty",
+        "aliases": []
+      },
+      {
+        "name": "벨",
+        "english": "Belle",
+        "aliases": []
+      },
+      {
+        "name": "하늘",
+        "english": "Haneul",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://fannstar.tf.co.kr/fnnews/read/117824",
+      "https://en.wikipedia.org/wiki/Kiss_of_Life_(group)"
+    ]
+  },
+  {
+    "name": "키키",
+    "english": "KiiiKiii",
+    "aliases": [],
+    "members": [
+      {
+        "name": "지유",
+        "english": "Jiyu",
+        "aliases": []
+      },
+      {
+        "name": "이솔",
+        "english": "Leesol",
+        "aliases": []
+      },
+      {
+        "name": "수이",
+        "english": "Sui",
+        "aliases": []
+      },
+      {
+        "name": "하음",
+        "english": "Haum",
+        "aliases": []
+      },
+      {
+        "name": "키야",
+        "english": "Kya",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/KiiiKiii"
+    ]
+  },
+  {
+    "name": "하츠투하츠",
+    "english": "Hearts2Hearts",
+    "aliases": [],
+    "members": [
+      {
+        "name": "카르멘",
+        "english": "Carmen",
+        "aliases": []
+      },
+      {
+        "name": "지우",
+        "english": "Jiwoo",
+        "aliases": []
+      },
+      {
+        "name": "유하",
+        "english": "Yuha",
+        "aliases": []
+      },
+      {
+        "name": "스텔라",
+        "english": "Stella",
+        "aliases": []
+      },
+      {
+        "name": "주은",
+        "english": "Juun",
+        "aliases": []
+      },
+      {
+        "name": "에이나",
+        "english": "A-na",
+        "aliases": [
+          "Ana"
+        ]
+      },
+      {
+        "name": "이안",
+        "english": "Ian",
+        "aliases": []
+      },
+      {
+        "name": "예온",
+        "english": "Ye-on",
+        "aliases": [
+          "Yeon"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/Hearts2Hearts"
+    ]
+  },
+  {
+    "name": "올데이 프로젝트",
+    "english": "ALLDAY PROJECT",
+    "aliases": [],
+    "members": [
+      {
+        "name": "애니",
+        "english": "Annie",
+        "aliases": []
+      },
+      {
+        "name": "타잔",
+        "english": "Tarzzan",
+        "aliases": []
+      },
+      {
+        "name": "베일리",
+        "english": "Bailey",
+        "aliases": []
+      },
+      {
+        "name": "우찬",
+        "english": "Woochan",
+        "aliases": []
+      },
+      {
+        "name": "영서",
+        "english": "Youngseo",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://front.mnetplus.world/en/news/2025-mama-awards-demonstrates-musics-power-to-heal-and-unite-in-moving-two-nights-performances/",
+      "https://en.wikipedia.org/wiki/Allday_Project"
+    ]
+  },
+  {
+    "name": "코르티스",
+    "english": "CORTIS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "마틴",
+        "english": "Martin",
+        "aliases": []
+      },
+      {
+        "name": "제임스",
+        "english": "James",
+        "aliases": []
+      },
+      {
+        "name": "주훈",
+        "english": "Juhoon",
+        "aliases": []
+      },
+      {
+        "name": "성현",
+        "english": "Seonghyeon",
+        "aliases": []
+      },
+      {
+        "name": "건호",
+        "english": "Keonho",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://front.mnetplus.world/en/news/2025-mama-awards-demonstrates-musics-power-to-heal-and-unite-in-moving-two-nights-performances/",
+      "https://en.wikipedia.org/wiki/Cortis"
+    ]
+  },
+  {
+    "name": "이즈나",
+    "english": "izna",
+    "aliases": [],
+    "members": [
+      {
+        "name": "마이",
+        "english": "Mai",
+        "aliases": []
+      },
+      {
+        "name": "방지민",
+        "english": "Bang Jeemin",
+        "aliases": []
+      },
+      {
+        "name": "윤지윤",
+        "english": "Yoon Jiyoon",
+        "aliases": []
+      },
+      {
+        "name": "코코",
+        "english": "Koko",
+        "aliases": []
+      },
+      {
+        "name": "유사랑",
+        "english": "Ryu Sarang",
+        "aliases": []
+      },
+      {
+        "name": "최정은",
+        "english": "Choi Jungeun",
+        "aliases": []
+      },
+      {
+        "name": "정세비",
+        "english": "Jeong Saebi",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/Izna"
+    ]
+  },
+  {
+    "name": "플레이브",
+    "english": "PLAVE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "예준",
+        "english": "Yejun",
+        "aliases": []
+      },
+      {
+        "name": "노아",
+        "english": "Noah",
+        "aliases": []
+      },
+      {
+        "name": "밤비",
+        "english": "Bamby",
+        "aliases": []
+      },
+      {
+        "name": "은호",
+        "english": "Eunho",
+        "aliases": []
+      },
+      {
+        "name": "하민",
+        "english": "Hamin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/Plave"
+    ]
+  },
+  {
+    "name": "큐더블유이알",
+    "english": "QWER",
+    "aliases": [
+      "큐WER",
+      "큐떱"
+    ],
+    "members": [
+      {
+        "name": "쵸단",
+        "english": "Chodan",
+        "aliases": []
+      },
+      {
+        "name": "마젠타",
+        "english": "Magenta",
+        "aliases": []
+      },
+      {
+        "name": "히나",
+        "english": "Hina",
+        "aliases": []
+      },
+      {
+        "name": "시연",
+        "english": "Siyeon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/270296",
+      "https://en.wikipedia.org/wiki/QWER"
+    ]
+  },
+  {
+    "name": "데이식스",
+    "english": "DAY6",
+    "aliases": [],
+    "members": [
+      {
+        "name": "성진",
+        "english": "Sungjin",
+        "aliases": []
+      },
+      {
+        "name": "영케이",
+        "english": "Young K",
+        "aliases": []
+      },
+      {
+        "name": "원필",
+        "english": "Wonpil",
+        "aliases": []
+      },
+      {
+        "name": "도운",
+        "english": "Dowoon",
+        "aliases": []
+      },
+      {
+        "name": "제이",
+        "english": "Jae",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/270296",
+      "https://en.wikipedia.org/wiki/Day6"
+    ]
+  },
+  {
+    "name": "엑스디너리 히어로즈",
+    "english": "Xdinary Heroes",
+    "aliases": [
+      "엑디즈"
+    ],
+    "members": [
+      {
+        "name": "건일",
+        "english": "Gunil",
+        "aliases": []
+      },
+      {
+        "name": "정수",
+        "english": "Jungsu",
+        "aliases": []
+      },
+      {
+        "name": "가온",
+        "english": "Gaon",
+        "aliases": []
+      },
+      {
+        "name": "오드",
+        "english": "O.de",
+        "aliases": []
+      },
+      {
+        "name": "준한",
+        "english": "Jun Han",
+        "aliases": []
+      },
+      {
+        "name": "주연",
+        "english": "Jooyeon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo",
+      "https://en.wikipedia.org/wiki/Xdinary_Heroes"
+    ]
+  },
+  {
+    "name": "엔플라잉",
+    "english": "N.Flying",
+    "aliases": [],
+    "members": [
+      {
+        "name": "이승협",
+        "english": "Lee Seunghyub",
+        "aliases": []
+      },
+      {
+        "name": "차훈",
+        "english": "Cha Hun",
+        "aliases": []
+      },
+      {
+        "name": "김재현",
+        "english": "Kim Jaehyun",
+        "aliases": []
+      },
+      {
+        "name": "유회승",
+        "english": "Yoo Hweseung",
+        "aliases": []
+      },
+      {
+        "name": "서동성",
+        "english": "Seo Dongsung",
+        "aliases": []
+      },
+      {
+        "name": "권광진",
+        "english": "Kwon Kwangjin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019",
+      "https://en.wikipedia.org/wiki/N.Flying"
+    ]
+  },
+  {
+    "name": "잔나비",
+    "english": "JANNABI",
+    "aliases": [],
+    "members": [
+      {
+        "name": "최정훈",
+        "english": "Choi Junghoon",
+        "aliases": []
+      },
+      {
+        "name": "김도형",
+        "english": "Kim Dohyung",
+        "aliases": []
+      },
+      {
+        "name": "장경준",
+        "english": "Jang Kyungjoon",
+        "aliases": []
+      },
+      {
+        "name": "윤결",
+        "english": "Yoon Kyul",
+        "aliases": []
+      },
+      {
+        "name": "유영현",
+        "english": "Yoo Younghyun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019",
+      "https://en.wikipedia.org/wiki/Jannabi_(band)"
+    ]
+  },
+  {
+    "name": "멜로망스",
+    "english": "MeloMance",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김민석",
+        "english": "Kim Minseok",
+        "aliases": []
+      },
+      {
+        "name": "정동환",
+        "english": "Jeong Donghwan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/MeloMance"
+    ]
+  },
+  {
+    "name": "볼빨간사춘기",
+    "english": "BOL4",
+    "aliases": [
+      "Bolbbalgan4"
+    ],
+    "members": [
+      {
+        "name": "안지영",
+        "english": "Ahn Jiyoung",
+        "aliases": []
+      },
+      {
+        "name": "우지윤",
+        "english": "Woo Jiyoon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/Bolbbalgan4"
+    ]
+  },
+  {
+    "name": "악뮤",
+    "english": "AKMU",
+    "aliases": [
+      "악동뮤지션",
+      "Akdong Musician"
+    ],
+    "members": [
+      {
+        "name": "이찬혁",
+        "english": "Lee Chanhyuk",
+        "aliases": []
+      },
+      {
+        "name": "이수현",
+        "english": "Lee Suhyun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/AKMU"
+    ]
+  },
+  {
+    "name": "다이나믹듀오",
+    "english": "Dynamic Duo",
+    "aliases": [],
+    "members": [
+      {
+        "name": "개코",
+        "english": "Gaeko",
+        "aliases": []
+      },
+      {
+        "name": "최자",
+        "english": "Choiza",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/Dynamic_Duo_(South_Korean_duo)"
+    ]
+  },
+  {
+    "name": "포레스텔라",
+    "english": "Forestella",
+    "aliases": [],
+    "members": [
+      {
+        "name": "배두훈",
+        "english": "Bae Doohoon",
+        "aliases": []
+      },
+      {
+        "name": "강형호",
+        "english": "Kang Hyungho",
+        "aliases": []
+      },
+      {
+        "name": "조민규",
+        "english": "Cho Mingyu",
+        "aliases": []
+      },
+      {
+        "name": "고우림",
+        "english": "Ko Woorim",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.youtube.com/watch?v=r6l-3SwPu6Q",
+      "https://en.wikipedia.org/wiki/Forestella"
+    ]
+  },
+  {
+    "name": "라포엠",
+    "english": "LA POEM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "유채훈",
+        "english": "You Chaehoon",
+        "aliases": []
+      },
+      {
+        "name": "최성훈",
+        "english": "Choi Sunghoon",
+        "aliases": []
+      },
+      {
+        "name": "정민성",
+        "english": "Jeong Minseong",
+        "aliases": []
+      },
+      {
+        "name": "박기훈",
+        "english": "Park Kihoon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1447993wpp/watch-performances-from-the-35th-golden-disc-awards-day-2",
+      "https://en.wikipedia.org/wiki/La_Poem"
+    ]
+  },
+  {
+    "name": "노을",
+    "english": "Noel",
+    "aliases": [],
+    "members": [
+      {
+        "name": "강균성",
+        "english": "Kang Kyunsung",
+        "aliases": []
+      },
+      {
+        "name": "전우성",
+        "english": "Jeon Woosung",
+        "aliases": []
+      },
+      {
+        "name": "이상곤",
+        "english": "Lee Sanggon",
+        "aliases": []
+      },
+      {
+        "name": "나성호",
+        "english": "Na Sungho",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1447847wpp/watch-performances-from-the-35th-golden-disc-awards-day-1",
+      "https://en.wikipedia.org/wiki/Noel_(band)"
+    ]
+  },
+  {
+    "name": "고막소년단",
+    "english": "GOMAK BOYS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "폴킴",
+        "english": "Paul Kim",
+        "aliases": []
+      },
+      {
+        "name": "김민석",
+        "english": "Kim Minseok",
+        "aliases": []
+      },
+      {
+        "name": "정승환",
+        "english": "Jung Seunghwan",
+        "aliases": []
+      },
+      {
+        "name": "하현상",
+        "english": "Ha Hyunsang",
+        "aliases": []
+      },
+      {
+        "name": "빅나티",
+        "english": "BIG Naughty",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022",
+      "https://en.wikipedia.org/wiki/Gomak_Boys"
+    ]
+  },
+  {
+    "name": "엠에스지 워너비 M.O.M",
+    "english": "MSG Wannabe M.O.M",
+    "aliases": [],
+    "members": [
+      {
+        "name": "지석진",
+        "english": "Jee Seokjin",
+        "aliases": [
+          "별루지"
+        ]
+      },
+      {
+        "name": "케이씨엠",
+        "english": "KCM",
+        "aliases": [
+          "강창모"
+        ]
+      },
+      {
+        "name": "박재정",
+        "english": "Parc Jaejung",
+        "aliases": []
+      },
+      {
+        "name": "원슈타인",
+        "english": "Wonstein",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1502196wpp/watch-performances-from-melon-music-awards-2021",
+      "https://en.wikipedia.org/wiki/MSG_Wannabe"
+    ]
+  },
+  {
+    "name": "어반자카파",
+    "english": "Urban Zakapa",
+    "aliases": [],
+    "members": [
+      {
+        "name": "권순일",
+        "english": "Kwon Sunil",
+        "aliases": []
+      },
+      {
+        "name": "조현아",
+        "english": "Jo Hyunah",
+        "aliases": []
+      },
+      {
+        "name": "박용인",
+        "english": "Park Yongin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards",
+      "https://en.wikipedia.org/wiki/Urban_Zakapa"
+    ]
+  },
+  {
+    "name": "씨엔블루",
+    "english": "CNBLUE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "정용화",
+        "english": "Jung Yonghwa",
+        "aliases": []
+      },
+      {
+        "name": "강민혁",
+        "english": "Kang Minhyuk",
+        "aliases": []
+      },
+      {
+        "name": "이정신",
+        "english": "Lee Jungshin",
+        "aliases": []
+      },
+      {
+        "name": "이종현",
+        "english": "Lee Jonghyun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards",
+      "https://en.wikipedia.org/wiki/CNBLUE"
+    ]
+  },
+  {
+    "name": "씨스타",
+    "english": "SISTAR",
+    "aliases": [],
+    "members": [
+      {
+        "name": "효린",
+        "english": "Hyolyn",
+        "aliases": []
+      },
+      {
+        "name": "보라",
+        "english": "Bora",
+        "aliases": []
+      },
+      {
+        "name": "소유",
+        "english": "Soyou",
+        "aliases": []
+      },
+      {
+        "name": "다솜",
+        "english": "Dasom",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards",
+      "https://en.wikipedia.org/wiki/Sistar"
+    ]
+  },
+  {
+    "name": "젝스키스",
+    "english": "SECHSKIES",
+    "aliases": [],
+    "members": [
+      {
+        "name": "은지원",
+        "english": "Eun Jiwon",
+        "aliases": []
+      },
+      {
+        "name": "이재진",
+        "english": "Lee Jaijin",
+        "aliases": []
+      },
+      {
+        "name": "김재덕",
+        "english": "Kim Jaeduck",
+        "aliases": []
+      },
+      {
+        "name": "강성훈",
+        "english": "Kang Sunghoon",
+        "aliases": []
+      },
+      {
+        "name": "장수원",
+        "english": "Jang Suwon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards",
+      "https://en.wikipedia.org/wiki/Sechs_Kies"
+    ]
+  },
+  {
+    "name": "제이비제이",
+    "english": "JBJ",
+    "aliases": [],
+    "members": [
+      {
+        "name": "노태현",
+        "english": "Roh Taehyun",
+        "aliases": []
+      },
+      {
+        "name": "켄타",
+        "english": "Kenta",
+        "aliases": []
+      },
+      {
+        "name": "김상균",
+        "english": "Kim Sanggyun",
+        "aliases": []
+      },
+      {
+        "name": "김용국",
+        "english": "Jin Longguo",
+        "aliases": []
+      },
+      {
+        "name": "권현빈",
+        "english": "Kwon Hyunbin",
+        "aliases": []
+      },
+      {
+        "name": "김동한",
+        "english": "Kim Donghan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards",
+      "https://en.wikipedia.org/wiki/JBJ_(band)"
+    ]
+  },
+  {
+    "name": "스누퍼",
+    "english": "SNUPER",
+    "aliases": [],
+    "members": [
+      {
+        "name": "태웅",
+        "english": "Taewoong",
+        "aliases": []
+      },
+      {
+        "name": "수현",
+        "english": "Suhyun",
+        "aliases": []
+      },
+      {
+        "name": "상일",
+        "english": "Sangil",
+        "aliases": []
+      },
+      {
+        "name": "우성",
+        "english": "Woosung",
+        "aliases": []
+      },
+      {
+        "name": "상호",
+        "english": "Sangho",
+        "aliases": []
+      },
+      {
+        "name": "세빈",
+        "english": "Sebin",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1078479wpp/performances-2017-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/Snuper"
+    ]
+  },
+  {
+    "name": "디크런치",
+    "english": "D-CRUNCH",
+    "aliases": [],
+    "members": [
+      {
+        "name": "현욱",
+        "english": "Hyunwook",
+        "aliases": []
+      },
+      {
+        "name": "현호",
+        "english": "Hyunho",
+        "aliases": []
+      },
+      {
+        "name": "오브이",
+        "english": "O.V",
+        "aliases": []
+      },
+      {
+        "name": "현오",
+        "english": "Hyunoh",
+        "aliases": []
+      },
+      {
+        "name": "현수",
+        "english": "Hyunsoo",
+        "aliases": []
+      },
+      {
+        "name": "민혁",
+        "english": "Minhyuk",
+        "aliases": []
+      },
+      {
+        "name": "찬영",
+        "english": "Chanyoung",
+        "aliases": []
+      },
+      {
+        "name": "정승",
+        "english": "Jungseung",
+        "aliases": []
+      },
+      {
+        "name": "딜란",
+        "english": "Dylan",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/D-Crunch"
+    ]
+  },
+  {
+    "name": "디케이지",
+    "english": "DKZ",
+    "aliases": [
+      "동키즈",
+      "DONGKIZ"
+    ],
+    "members": [
+      {
+        "name": "경윤",
+        "english": "Kyoungyoon",
+        "aliases": []
+      },
+      {
+        "name": "문익",
+        "english": "Munik",
+        "aliases": []
+      },
+      {
+        "name": "재찬",
+        "english": "Jaechan",
+        "aliases": []
+      },
+      {
+        "name": "종형",
+        "english": "Jonghyeong",
+        "aliases": []
+      },
+      {
+        "name": "원대",
+        "english": "Wondae",
+        "aliases": []
+      },
+      {
+        "name": "세현",
+        "english": "Sehyeon",
+        "aliases": []
+      },
+      {
+        "name": "민규",
+        "english": "Mingyu",
+        "aliases": []
+      },
+      {
+        "name": "기석",
+        "english": "Giseok",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1368116wpp/watch-performances-from-2019-asia-artist-awards",
+      "https://en.wikipedia.org/wiki/DKZ"
+    ]
+  },
+  {
+    "name": "휘브",
+    "english": "WHIB",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김준민",
+        "english": "Kim Junmin",
+        "aliases": [
+          "제이더",
+          "Jayder"
+        ]
+      },
+      {
+        "name": "하승",
+        "english": "Haseung",
+        "aliases": []
+      },
+      {
+        "name": "진범",
+        "english": "Jinbeom",
+        "aliases": []
+      },
+      {
+        "name": "유건",
+        "english": "Yoogeon",
+        "aliases": []
+      },
+      {
+        "name": "이정",
+        "english": "Ijeong",
+        "aliases": []
+      },
+      {
+        "name": "재하",
+        "english": "Jaeha",
+        "aliases": []
+      },
+      {
+        "name": "인홍",
+        "english": "Inhong",
+        "aliases": []
+      },
+      {
+        "name": "원준",
+        "english": "Wonjun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/Whib",
+      "https://www.melon.com/artist/detail.htm?artistId=3613486"
+    ]
+  },
+  {
+    "name": "세이마이네임",
+    "english": "SAY MY NAME",
+    "aliases": [],
+    "members": [
+      {
+        "name": "히토미",
+        "english": "Hitomi",
+        "aliases": []
+      },
+      {
+        "name": "메이",
+        "english": "Mei",
+        "aliases": []
+      },
+      {
+        "name": "카니",
+        "english": "Kanny",
+        "aliases": []
+      },
+      {
+        "name": "소하",
+        "english": "Soha",
+        "aliases": []
+      },
+      {
+        "name": "도희",
+        "english": "Dohee",
+        "aliases": []
+      },
+      {
+        "name": "준휘",
+        "english": "Junhwi",
+        "aliases": []
+      },
+      {
+        "name": "승주",
+        "english": "Seungjoo",
+        "aliases": []
+      },
+      {
+        "name": "슈이",
+        "english": "Shuie",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/Say_My_Name_(group)",
+      "https://weverse.io/saymyname/notice/28467"
+    ]
+  },
+  {
+    "name": "피프티 피프티",
+    "english": "FIFTY FIFTY",
+    "aliases": [],
+    "members": [
+      {
+        "name": "키나",
+        "english": "Keena",
+        "aliases": []
+      },
+      {
+        "name": "문샤넬",
+        "english": "Chanelle Moon",
+        "aliases": []
+      },
+      {
+        "name": "예원",
+        "english": "Yewon",
+        "aliases": []
+      },
+      {
+        "name": "하나",
+        "english": "Hana",
+        "aliases": []
+      },
+      {
+        "name": "아테나",
+        "english": "Athena",
+        "aliases": []
+      },
+      {
+        "name": "새나",
+        "english": "Saena",
+        "aliases": []
+      },
+      {
+        "name": "시오",
+        "english": "Sio",
+        "aliases": []
+      },
+      {
+        "name": "아란",
+        "english": "Aran",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/Fifty_Fifty_(group)"
+    ]
+  },
+  {
+    "name": "리센느",
+    "english": "RESCENE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "원이",
+        "english": "Woni",
+        "aliases": []
+      },
+      {
+        "name": "리브",
+        "english": "Liv",
+        "aliases": []
+      },
+      {
+        "name": "미나미",
+        "english": "Minami",
+        "aliases": []
+      },
+      {
+        "name": "메이",
+        "english": "May",
+        "aliases": []
+      },
+      {
+        "name": "제나",
+        "english": "Zena",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/2367103.htm",
+      "https://en.wikipedia.org/wiki/Rescene"
+    ]
+  },
+  {
+    "name": "킥플립",
+    "english": "KickFlip",
+    "aliases": [],
+    "members": [
+      {
+        "name": "계훈",
+        "english": "Kyehoon",
+        "aliases": []
+      },
+      {
+        "name": "아마루",
+        "english": "Amaru",
+        "aliases": []
+      },
+      {
+        "name": "동화",
+        "english": "Donghwa",
+        "aliases": []
+      },
+      {
+        "name": "주왕",
+        "english": "Juwang",
+        "aliases": []
+      },
+      {
+        "name": "민제",
+        "english": "Minje",
+        "aliases": []
+      },
+      {
+        "name": "케이주",
+        "english": "Keiju",
+        "aliases": []
+      },
+      {
+        "name": "동현",
+        "english": "Donghyeon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/KickFlip"
+    ]
+  },
+  {
+    "name": "웨이브 투 어스",
+    "english": "wave to earth",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김다니엘",
+        "english": "Kim Daniel",
+        "aliases": []
+      },
+      {
+        "name": "신동규",
+        "english": "Shin Donggyu",
+        "aliases": []
+      },
+      {
+        "name": "차순종",
+        "english": "Cha Soonjong",
+        "aliases": [
+          "John Cha"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335",
+      "https://en.wikipedia.org/wiki/Wave_to_Earth"
+    ]
+  },
+  {
+    "name": "알파드라이브원",
+    "english": "ALPHA DRIVE ONE",
+    "aliases": [
+      "ALD1"
+    ],
+    "members": [
+      {
+        "name": "상원",
+        "english": "Sangwon",
+        "aliases": [
+          "이상원"
+        ]
+      },
+      {
+        "name": "안신",
+        "english": "Anxin",
+        "aliases": [
+          "저우안신"
+        ]
+      },
+      {
+        "name": "신롱",
+        "english": "Xinlong",
+        "aliases": [
+          "허신롱"
+        ]
+      },
+      {
+        "name": "건우",
+        "english": "Geonwoo",
+        "aliases": [
+          "김건우"
+        ]
+      },
+      {
+        "name": "아르노",
+        "english": "Arno",
+        "aliases": [
+          "장지아하오",
+          "Zhang Jiahao"
+        ]
+      },
+      {
+        "name": "리오",
+        "english": "Leo",
+        "aliases": [
+          "이리오"
+        ]
+      },
+      {
+        "name": "상현",
+        "english": "Sanghyeon",
+        "aliases": [
+          "정상현"
+        ]
+      },
+      {
+        "name": "준서",
+        "english": "Junseo",
+        "aliases": [
+          "김준서"
+        ]
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://front.mnetplus.world/en/news/2025-mama-awards-demonstrates-musics-power-to-heal-and-unite-in-moving-two-nights-performances/",
+      "https://en.wikipedia.org/wiki/Alpha_Drive_One"
+    ]
+  },
+  {
+    "name": "트리플에스",
+    "english": "tripleS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "윤서연",
+        "english": "Yoon Seoyeon",
+        "aliases": []
+      },
+      {
+        "name": "정혜린",
+        "english": "Jeong Hyerin",
+        "aliases": []
+      },
+      {
+        "name": "이지우",
+        "english": "Lee Jiwoo",
+        "aliases": []
+      },
+      {
+        "name": "김채연",
+        "english": "Kim Chaeyeon",
+        "aliases": []
+      },
+      {
+        "name": "김유연",
+        "english": "Kim Yooyeon",
+        "aliases": []
+      },
+      {
+        "name": "김수민",
+        "english": "Kim Soomin",
+        "aliases": []
+      },
+      {
+        "name": "김나경",
+        "english": "Kim Nakyoung",
+        "aliases": []
+      },
+      {
+        "name": "공유빈",
+        "english": "Gong Yubin",
+        "aliases": []
+      },
+      {
+        "name": "카에데",
+        "english": "Kaede",
+        "aliases": []
+      },
+      {
+        "name": "서다현",
+        "english": "Seo Dahyun",
+        "aliases": []
+      },
+      {
+        "name": "코토네",
+        "english": "Kotone",
+        "aliases": []
+      },
+      {
+        "name": "곽연지",
+        "english": "Kwak Yeonji",
+        "aliases": []
+      },
+      {
+        "name": "니엔",
+        "english": "Nien",
+        "aliases": []
+      },
+      {
+        "name": "박소현",
+        "english": "Park Sohyun",
+        "aliases": []
+      },
+      {
+        "name": "신위",
+        "english": "Xinyu",
+        "aliases": []
+      },
+      {
+        "name": "마유",
+        "english": "Mayu",
+        "aliases": []
+      },
+      {
+        "name": "린",
+        "english": "Lynn",
+        "aliases": []
+      },
+      {
+        "name": "주빈",
+        "english": "Joobin",
+        "aliases": []
+      },
+      {
+        "name": "정하연",
+        "english": "Jeong Hayeon",
+        "aliases": []
+      },
+      {
+        "name": "박시온",
+        "english": "Park Shion",
+        "aliases": []
+      },
+      {
+        "name": "김채원",
+        "english": "Kim Chaewon",
+        "aliases": []
+      },
+      {
+        "name": "설린",
+        "english": "Sullin",
+        "aliases": []
+      },
+      {
+        "name": "서아",
+        "english": "Seoah",
+        "aliases": []
+      },
+      {
+        "name": "지연",
+        "english": "Jiyeon",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/2367103.htm",
+      "https://en.wikipedia.org/wiki/TripleS"
+    ]
+  },
+  {
+    "name": "제이오원",
+    "english": "JO1",
+    "aliases": [],
+    "members": [
+      {
+        "name": "요나시로 쇼",
+        "english": "Sho Yonashiro",
+        "aliases": []
+      },
+      {
+        "name": "카와시리 렌",
+        "english": "Ren Kawashiri",
+        "aliases": []
+      },
+      {
+        "name": "시로이와 루키",
+        "english": "Ruki Shiroiwa",
+        "aliases": []
+      },
+      {
+        "name": "코노 준키",
+        "english": "Junki Kono",
+        "aliases": []
+      },
+      {
+        "name": "사토 케이고",
+        "english": "Keigo Sato",
+        "aliases": []
+      },
+      {
+        "name": "카와니시 타쿠미",
+        "english": "Takumi Kawanishi",
+        "aliases": []
+      },
+      {
+        "name": "키마타 쇼야",
+        "english": "Syoya Kimata",
+        "aliases": []
+      },
+      {
+        "name": "오히라 쇼세이",
+        "english": "Shosei Ohira",
+        "aliases": []
+      },
+      {
+        "name": "킨조 스카이",
+        "english": "Sukai Kinjo",
+        "aliases": []
+      },
+      {
+        "name": "츠루보 시온",
+        "english": "Shion Tsurubo",
+        "aliases": []
+      },
+      {
+        "name": "마메하라 잇세이",
+        "english": "Issei Mamehara",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/JO1"
+    ]
+  },
+  {
+    "name": "아이엔아이",
+    "english": "INI",
+    "aliases": [],
+    "members": [
+      {
+        "name": "니시 히로토",
+        "english": "Hiroto Nishi",
+        "aliases": []
+      },
+      {
+        "name": "키무라 마사야",
+        "english": "Masaya Kimura",
+        "aliases": []
+      },
+      {
+        "name": "쉬 펑판",
+        "english": "Xu Fengfan",
+        "aliases": []
+      },
+      {
+        "name": "타지마 쇼고",
+        "english": "Shogo Tajima",
+        "aliases": []
+      },
+      {
+        "name": "타카츠카 히로무",
+        "english": "Hiromu Takatsuka",
+        "aliases": []
+      },
+      {
+        "name": "고토 타케루",
+        "english": "Takeru Goto",
+        "aliases": []
+      },
+      {
+        "name": "오자키 타쿠미",
+        "english": "Takumi Ozaki",
+        "aliases": []
+      },
+      {
+        "name": "후지마키 쿄스케",
+        "english": "Kyosuke Fujimaki",
+        "aliases": []
+      },
+      {
+        "name": "사노 유다이",
+        "english": "Yudai Sano",
+        "aliases": []
+      },
+      {
+        "name": "이케자키 리히토",
+        "english": "Rihito Ikezaki",
+        "aliases": []
+      },
+      {
+        "name": "마츠다 진",
+        "english": "Jin Matsuda",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/INI_(Japanese_boy_band)"
+    ]
+  },
+  {
+    "name": "부석순",
+    "english": "BSS",
+    "aliases": [],
+    "members": [
+      {
+        "name": "승관",
+        "english": "Seungkwan",
+        "aliases": []
+      },
+      {
+        "name": "도겸",
+        "english": "DK",
+        "aliases": []
+      },
+      {
+        "name": "호시",
+        "english": "Hoshi",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines",
+      "https://en.wikipedia.org/wiki/BSS_(band)"
+    ]
+  },
+  {
+    "name": "저스트비",
+    "english": "JUST B",
+    "aliases": [],
+    "members": [
+      {
+        "name": "임지민",
+        "english": "Lim Jimin",
+        "aliases": []
+      },
+      {
+        "name": "이건우",
+        "english": "Lee Geonu",
+        "aliases": []
+      },
+      {
+        "name": "배인",
+        "english": "Bain",
+        "aliases": []
+      },
+      {
+        "name": "제이엠",
+        "english": "JM",
+        "aliases": []
+      },
+      {
+        "name": "전도염",
+        "english": "Jeon Doyum",
+        "aliases": [
+          "DY"
+        ]
+      },
+      {
+        "name": "김상우",
+        "english": "Kim Sangwoo",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/en/news/2023-mama-awards-day-1-winners-list/",
+      "https://en.wikipedia.org/wiki/Just_B"
+    ]
+  },
+  {
+    "name": "엘즈업",
+    "english": "EL7Z UP",
+    "aliases": [],
+    "members": [
+      {
+        "name": "케이",
+        "english": "Kei",
+        "aliases": []
+      },
+      {
+        "name": "예은",
+        "english": "Yeeun",
+        "aliases": []
+      },
+      {
+        "name": "여름",
+        "english": "Yeoreum",
+        "aliases": []
+      },
+      {
+        "name": "휘서",
+        "english": "Hwiseo",
+        "aliases": []
+      },
+      {
+        "name": "나나",
+        "english": "Nana",
+        "aliases": []
+      },
+      {
+        "name": "유키",
+        "english": "Yuki",
+        "aliases": []
+      },
+      {
+        "name": "연희",
+        "english": "Yeonhee",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://event.tving.com/ST000001/en/news/2023-mama-awards-announces-the-second-set-of-performers/",
+      "https://en.wikipedia.org/wiki/El7z_Up"
+    ]
+  },
+  {
+    "name": "더뉴식스",
+    "english": "THE NEW SIX",
+    "aliases": [
+      "TNX"
+    ],
+    "members": [
+      {
+        "name": "최태훈",
+        "english": "Choi Taehun",
+        "aliases": []
+      },
+      {
+        "name": "장현수",
+        "english": "Jang Hyunsoo",
+        "aliases": []
+      },
+      {
+        "name": "천준혁",
+        "english": "Cheon Junhyeok",
+        "aliases": []
+      },
+      {
+        "name": "은휘",
+        "english": "Eun Hwi",
+        "aliases": []
+      },
+      {
+        "name": "오성준",
+        "english": "Oh Sungjun",
+        "aliases": []
+      },
+      {
+        "name": "우경준",
+        "english": "Woo Kyungjun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm",
+      "https://en.wikipedia.org/wiki/The_New_Six"
+    ]
+  },
+  {
+    "name": "카라",
+    "english": "KARA",
+    "aliases": [],
+    "members": [
+      {
+        "name": "박규리",
+        "english": "Park Gyuri",
+        "aliases": []
+      },
+      {
+        "name": "한승연",
+        "english": "Han Seungyeon",
+        "aliases": []
+      },
+      {
+        "name": "정니콜",
+        "english": "Nicole Jung",
+        "aliases": []
+      },
+      {
+        "name": "구하라",
+        "english": "Goo Hara",
+        "aliases": []
+      },
+      {
+        "name": "강지영",
+        "english": "Kang Jiyoung",
+        "aliases": []
+      },
+      {
+        "name": "허영지",
+        "english": "Heo Youngji",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556562wpp/watch-performances-from-2022-mama-awards-day-1",
+      "https://en.wikipedia.org/wiki/Kara_(South_Korean_group)"
+    ]
+  },
+  {
+    "name": "자우림",
+    "english": "JAURIM",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김윤아",
+        "english": "Kim Yuna",
+        "aliases": []
+      },
+      {
+        "name": "이선규",
+        "english": "Lee Sunkyu",
+        "aliases": []
+      },
+      {
+        "name": "김진만",
+        "english": "Kim Jinman",
+        "aliases": []
+      },
+      {
+        "name": "구태훈",
+        "english": "Goo Taehun",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1556562wpp/watch-performances-from-2022-mama-awards-day-1",
+      "https://en.wikipedia.org/wiki/Jaurim"
+    ]
+  },
+  {
+    "name": "실리카겔",
+    "english": "Silica Gel",
+    "aliases": [],
+    "members": [
+      {
+        "name": "김한주",
+        "english": "Kim Hanju",
+        "aliases": []
+      },
+      {
+        "name": "김춘추",
+        "english": "Kim Chunchu",
+        "aliases": []
+      },
+      {
+        "name": "김건재",
+        "english": "Kim Geonjay",
+        "aliases": []
+      },
+      {
+        "name": "최웅희",
+        "english": "Choi Woonghee",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1629654wpp/watch-performances-from-melon-music-awards-2023",
+      "https://en.wikipedia.org/wiki/Silica_Gel_(band)"
+    ]
+  },
+  {
+    "name": "캣츠아이",
+    "english": "KATSEYE",
+    "aliases": [],
+    "members": [
+      {
+        "name": "소피아",
+        "english": "Sophia",
+        "aliases": []
+      },
+      {
+        "name": "마농",
+        "english": "Manon",
+        "aliases": []
+      },
+      {
+        "name": "다니엘라",
+        "english": "Daniela",
+        "aliases": []
+      },
+      {
+        "name": "라라",
+        "english": "Lara",
+        "aliases": []
+      },
+      {
+        "name": "메간",
+        "english": "Megan",
+        "aliases": []
+      },
+      {
+        "name": "윤채",
+        "english": "Yoonchae",
+        "aliases": []
+      }
+    ],
+    "membershipBasis": "2017–2026 활동 이력 기준 · 현·전 멤버 포함 (개별 멤버의 시상식 참석을 뜻하지 않음)",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers",
+      "https://en.wikipedia.org/wiki/Katseye"
+    ]
+  },
+  {
+    "name": "아이유",
+    "english": "IU",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards"
+    ]
+  },
+  {
+    "name": "현아",
+    "english": "HyunA",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards"
+    ]
+  },
+  {
+    "name": "홍진영",
+    "english": "Hong Jinyoung",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards"
+    ]
+  },
+  {
+    "name": "김영철",
+    "english": "Kim Youngchul",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1088295wpp/performances-2017-melon-music-awards"
+    ]
+  },
+  {
+    "name": "청하",
+    "english": "CHUNG HA",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019"
+    ]
+  },
+  {
+    "name": "헤이즈",
+    "english": "Heize",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019"
+    ]
+  },
+  {
+    "name": "강다니엘",
+    "english": "Kang Daniel",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019"
+    ]
+  },
+  {
+    "name": "기리보이",
+    "english": "Giriboy",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1368880wpp/watch-performances-from-the-melon-music-awards-2019"
+    ]
+  },
+  {
+    "name": "임영웅",
+    "english": "Lim Youngwoong",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020"
+    ]
+  },
+  {
+    "name": "영탁",
+    "english": "Youngtak",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020"
+    ]
+  },
+  {
+    "name": "이무진",
+    "english": "Lee Mujin",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1502196wpp/watch-performances-from-melon-music-awards-2021"
+    ]
+  },
+  {
+    "name": "비오",
+    "english": "BE'O",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022"
+    ]
+  },
+  {
+    "name": "십센치",
+    "english": "10CM",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022"
+    ]
+  },
+  {
+    "name": "빅나티",
+    "english": "BIG Naughty",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1556027wpp/watch-performances-from-melon-music-awards-2022"
+    ]
+  },
+  {
+    "name": "알렉사",
+    "english": "AleXa",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.newsen.com/news_view.php?uid=202212101601216310"
+    ]
+  },
+  {
+    "name": "김재중",
+    "english": "Kim Jaejoong",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "딘딘",
+    "english": "DinDin",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "이영지",
+    "english": "Lee Youngji",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "애쉬아일랜드",
+    "english": "ASH ISLAND",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "권은비",
+    "english": "Kwon Eunbi",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "폴블랑코",
+    "english": "Paul Blanco",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://mb.com.ph/2023/12/15/winners-at-the-2023-asia-artist-awards-in-the-philippines"
+    ]
+  },
+  {
+    "name": "비비",
+    "english": "BIBI",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/270296"
+    ]
+  },
+  {
+    "name": "박진영",
+    "english": "J.Y. Park",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1447993wpp/watch-performances-from-the-35th-golden-disc-awards-day-2"
+    ]
+  },
+  {
+    "name": "싸이",
+    "english": "PSY",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm"
+    ]
+  },
+  {
+    "name": "황치열",
+    "english": "Hwang Chiyeul",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm"
+    ]
+  },
+  {
+    "name": "김호중",
+    "english": "Kim Hojoong",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/1967403.htm"
+    ]
+  },
+  {
+    "name": "이찬원",
+    "english": "Lee Chanwon",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.starnewskorea.com/music/2026/06/04/2026060407035741459"
+    ]
+  },
+  {
+    "name": "최예나",
+    "english": "YENA",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://news.tf.co.kr/read/entertain/2367103.htm"
+    ]
+  },
+  {
+    "name": "태연",
+    "english": "Taeyeon",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "크러쉬",
+    "english": "Crush",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "거미",
+    "english": "Gummy",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "지코",
+    "english": "ZICO",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "이하이",
+    "english": "Lee Hi",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "엄정화",
+    "english": "Uhm Junghwa",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "가인",
+    "english": "Gain",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "수지",
+    "english": "Suzy",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/936941wpp/watch-performances-31st-golden-disc-awards"
+    ]
+  },
+  {
+    "name": "임창정",
+    "english": "Lim Changjung",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1288197wpp/performances-33rd-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "정인",
+    "english": "Jung In",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1288197wpp/performances-33rd-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "화사",
+    "english": "Hwasa",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1288197wpp/performances-33rd-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "송민호",
+    "english": "MINO",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1288197wpp/performances-33rd-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "제니",
+    "english": "JENNIE",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1288197wpp/performances-33rd-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "제시",
+    "english": "Jessi",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1447847wpp/watch-performances-from-the-35th-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "이승기",
+    "english": "Lee Seunggi",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1447847wpp/watch-performances-from-the-35th-golden-disc-awards-day-1"
+    ]
+  },
+  {
+    "name": "비",
+    "english": "RAIN",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1447993wpp/watch-performances-from-the-35th-golden-disc-awards-day-2"
+    ]
+  },
+  {
+    "name": "로이킴",
+    "english": "Roy Kim",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "선미",
+    "english": "Sunmi",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "세븐",
+    "english": "SE7EN",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1270677wpp/performances-2018-asia-artist-awards"
+    ]
+  },
+  {
+    "name": "비와이",
+    "english": "BewhY",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "창모",
+    "english": "CHANGMO",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "마미손",
+    "english": "Mommy Son",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "나플라",
+    "english": "nafla",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "팔로알토",
+    "english": "Paloalto",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "스윙스",
+    "english": "Swings",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "더콰이엇",
+    "english": "The Quiett",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "타이거제이케이",
+    "english": "Tiger JK",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "윤미래",
+    "english": "Yoon Mirae",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1278359wpp/performances-2018-mama-hong-kong"
+    ]
+  },
+  {
+    "name": "코드쿤스트",
+    "english": "CODE KUNST",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020"
+    ]
+  },
+  {
+    "name": "사이먼도미닉",
+    "english": "Simon Dominic",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020"
+    ]
+  },
+  {
+    "name": "송가인",
+    "english": "Song Gain",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1440672wpp/watch-2020-asia-artist-awards-shares-sneak-peek-of-singers-and-actors-hitting-the-red-carpet"
+    ]
+  },
+  {
+    "name": "박재범",
+    "english": "Jay Park",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://v.daum.net/v/13fztLQ91W"
+    ]
+  },
+  {
+    "name": "보아",
+    "english": "BoA",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441983wpp/watch-performances-from-2020-mnet-asian-music-awards"
+    ]
+  },
+  {
+    "name": "이승윤",
+    "english": "Lee Seungyoon",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://v.daum.net/v/20230120065323041"
+    ]
+  },
+  {
+    "name": "산다라박",
+    "english": "Sandara Park",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "황가람",
+    "english": "Hwang Garam",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://enter.etoday.co.kr/news/view/279335"
+    ]
+  },
+  {
+    "name": "한로로",
+    "english": "HANRORO",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.starnewskorea.com/music/2026/06/04/2026060407035741459"
+    ]
+  },
+  {
+    "name": "우즈",
+    "english": "WOODZ",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://v.daum.net/v/13fztLQ91W"
+    ]
+  },
+  {
+    "name": "지드래곤",
+    "english": "G-DRAGON",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers"
+    ]
+  },
+  {
+    "name": "유주",
+    "english": "YUJU",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "영케이",
+    "english": "Young K",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "뱀뱀",
+    "english": "BamBam",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "영재",
+    "english": "Youngjae",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "마크투안",
+    "english": "Mark Tuan",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.youtube.com/watch?v=aH9oy9ohXgo"
+    ]
+  },
+  {
+    "name": "로제",
+    "english": "ROSÉ",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1695036wpp/2024-mama-awards-announces-1st-lineup-of-performers"
+    ]
+  },
+  {
+    "name": "태민",
+    "english": "TAEMIN",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441983wpp/watch-performances-from-2020-mnet-asian-music-awards"
+    ]
+  },
+  {
+    "name": "제이홉",
+    "english": "j-hope",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://cjenm.com/en/news/2022-mama-awards-the-worlds-no1-kpop-awards-announces-second-round-of-performing-artists/"
+    ]
+  },
+  {
+    "name": "효린",
+    "english": "HYOLYN",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://cjenm.com/en/news/2022-mama-awards-the-worlds-no1-kpop-awards-announces-second-round-of-performing-artists/"
+    ]
+  },
+  {
+    "name": "유아",
+    "english": "YooA",
+    "aliases": [],
+    "members": [],
+    "membershipBasis": "솔로 아티스트",
+    "sources": [
+      "https://www.soompi.com/article/1441842wpp/watch-performances-from-melon-music-awards-2020"
+    ]
+  }
+]

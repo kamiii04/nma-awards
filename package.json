@@ -1,1 +1,1 @@
-{"type":"module","private":true}
+{"name":"nma-awards","version":"1.0.0","type":"module","private":true,"scripts":{"dev":"node serve.mjs","test":"node --test tests/catalog.test.mjs","catalog:sync":"node sync-editor.mjs"}}

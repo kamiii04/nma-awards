@@ -1,0 +1,23 @@
+import {writeFileSync,readFileSync,existsSync} from 'node:fs';
+const groups=[];
+function add(name,english,names,sources,aliases=[]){groups.push({name,english,aliases,members:names.split('|').map(s=>{const [name,english,...aliases]=s.split('=');return{name,english,aliases}}),sources})}
+add('데일리디렉션','DAILY:DIRECTION','앤 킴=EN KIM=엔김=EN-KIM=김민수|김주형=Kim Joo Hyoung=Joohyoung|임지환=Lim Ji Hwan=Jihwan|이반=E-VAN=장유빈|이원우=Lee Won Woo=Wonwoo|장윤석=Jang Yoon Seok=Yoonseok',['https://www.melon.com/artist/detail.htm?artistId=4818155','https://weverse.io/dailydirection/highlight','https://www.etnews.com/20260125000022'],['데일리:디렉션','Daily Direction','D:D']);
+add('키빗업','KEYVITUP','태환=TAEHWAN|현민=HYUNMIN|세나=SENA|재인=JAEIN|루키아=RUKIA',['https://ssl.sme.co.jp/artist/KEYVITUP/profile/','https://idol.daissu.co.kr/artist/wd-q140106482']);
+groups.at(-1).sources[1]='https://www.melon.com/artist/detail.htm?artistId=4851397';
+add('유어즈','YUHZ','보현=BOHYEON|효=HYO|하루토=HARUTO|준성=JUNSEONG|재일=JAEIL|카이=KAI|연태=YEONTAE|세찬=SECHAN',['https://danmee.jp/knews/k-pop/yuhz-interview/'],['Your Hertz']);
+add('튜넥스','TUNEXX','동규=Donggyu=박동규|인후=Inhu=김인후|타이라=Taira|성준=Sungjun=문성준|제온=Zeon|시환=Sihwan=김시환|아틱=Arctic',['https://sports.khan.co.kr/en/article/202602030017007','https://soridata.com/en/members/TUNEXX.html']);
+add('플레어유','FLARE U','최립우=CHUEI LI YU=Chuei Liyu|강우진=KANG WOO JIN=Woojin',['https://fncent.com/flareu'],['플레어 유']);
+add('에이엔','AEN','보민=BOMIN|지용=JIYONG|규현=KYUHYUN|하루=HARU|하루토=HARUTO|준서=JUNSEO|카이라=KAIRA',['https://www.soompi.com/article/1860658wpp/starship-entertainments-new-boy-group-aen-announces-official-fan-club-name','https://idol.daissu.co.kr/artist/official-aen']);
+add('체이서','CHASER','강빈=Kangbin|케이스케=Keisuke|렌=Ren|윤성=Yunseong|시훈=Sihun',['https://enews.imbc.com/News/RetrieveNewsInfo/495934','https://zh.wikipedia.org/wiki/CHASER']);
+add('아이딧','IDID','장용훈=Jang Yong Hoon=Yonghoon|김민재=Kim Min Jae=Minjae|박원빈=Park Won Bin=Wonbin|추유찬=Chu Yoo Chan=Yoochan|박성현=Park Seong Hyeon=Seonghyeon|백준혁=Baek Jun Hyuk=Junhyuk|정세민=Jeong Se Min=Semin',['https://en.wikipedia.org/wiki/Idid_%28group%29']);
+add('아이덴티티','idntt','김도훈=Kim DoHun|김희주=Kim HeeJu|윤선재=Yun SunJae|최태인=Choi TaeIn|이재영=Lee JaeYoung|김주호=Kim JuHo|남지운=Nam JiWoon|이환희=Lee HwanHee|이청명=Lee CheongMyeong|토와=Towa|이규혁=Lee KyuHyuk|박누리=Park NuRi|김성준=Kim SeongJun|한예준=Han YeJoon|최경빈=Choi GyeongBeen|황은수=Hwang EunSoo|곽기웅=Kwak GiWoong=Kwak Kiwoong|이주헌=Lee JooHeon=Lee Juheon|양경호=Yang GyungHo=Yang Kyungho|조은찬=Cho EunChan=Jo Eunchan|김은성=Kim EunSung|구도형=Koo DoHyung|박경률=Park GyeongRyul|김지후=Kim JiHoo',['https://www.melon.com/artist/detail.htm?artistId=4460895','https://enter.etoday.co.kr/news/view/304829','https://idntt.fandom.com/wiki/Idntt','https://kpophq.de/gruppen/idntt/','https://vidiq.com/youtube-stats/channel/%40idntt_cosmo/videos/'],['identity']);
+add('베이온','VAYONN','마사토=MASATO|센=SEN|아양=AYANG=쑨지아양=Sun Jiayang|진위=JINYU=펑진위=Peng Jinyu|테루=TERU|마노=MANO',['https://v.daum.net/v/20260601150916549','https://idol.daissu.co.kr/artist/official-vayonn'],['VAY ONN']);
+add('네이즈','NAZE','카이세이=KAISEI|윤기=YOUNKI|아토=ATO|턴=TURN|유야=YUYA|김건=KIMKUN|도혁=DOHYEOK',['https://naze-official.jp/profile','https://music.bugs.co.kr/artist/20259135']);
+add('에이댑','ADAP','효태=HYOTAE|준석=JUNSEOK|재영=JAEYOUNG|도원=DOWON|종호=JONGHO|현성=HYUNSUNG=HYUNSEONG',['https://enews.imbc.com/News/RetrieveNewsInfo/523597','https://kprofiles.com/adap-members-profile/']);
+add('하입프린세스','H//PE Princess','코코=COCO|와이에스와이=YSY=윤서영|유주=YUJU=남유주|도이=DOI|리노=RINO|니코=NIKO|수진=SUJIN',['https://www.melon.com/artist/detail.htm?artistId=4928591','https://idol.daissu.co.kr/artist/wd-q140106482'],['HIIPE Princess','HYPE Princess','HPE Princess']);
+add('언차일드','UNCHILD','예은=YEEUN=박예은=Park Yeeun|히키=HEEKIE=변서영|티나=TINA|아코=AKO|이본=EVON=이지민|하은=HAEUN=나하은=Na Haeun',['https://www.highup-ent.com/unchild/','https://enews.imbc.com/News/RetrieveNewsInfo/502392','https://fansupport.joelin.cc/en/group/unchild/']);
+add('아워벌스데이','OURBIRTHDAY','국초록=KUK CHOROK|신혜원=SHIN HYEWON|조혜진=CHO HYEJIN|유=U=Yu|베이비=BABY|아치라야=ACHIRAYA|키라라=KILALA=Kirara',['https://idol.daissu.co.kr/artist/wd-q140681359','https://en.innitent.com/logout.cm?back_url=LzQw','https://kpopping.com/profiles/group/ourbirthday'],['Our Birthday']);
+groups.find(g=>g.english==='IDID').sources.unshift('https://www.melon.com/artist/detail.htm?artistId=4379610');
+writeFileSync(new URL('./research-requested-own.json',import.meta.url),JSON.stringify(groups,null,2)+'\n');
+if(existsSync(new URL('./research-requested-half.json',import.meta.url))){const half=JSON.parse(readFileSync(new URL('./research-requested-half.json',import.meta.url),'utf8').replace(/^\uFEFF/,''));writeFileSync(new URL('./research-requested.json',import.meta.url),JSON.stringify([...groups,...half],null,2)+'\n')}
+console.log(groups.length+' groups researched');
