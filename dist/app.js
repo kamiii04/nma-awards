@@ -36,12 +36,100 @@ function renderCue(){if(!state.generated&&state.awards.some(a=>a.artist))generat
 }
 let catalogPromise;
 function getCatalog(){if(!catalogPromise)catalogPromise=fetch('./artists.json',{cache:'no-cache'}).then(r=>{if(!r.ok)throw Error('catalog');return r.json()}).then(validateCatalog).catch(e=>{catalogPromise=null;throw e});return catalogPromise}
-function artistSearch(done){
- open('아티스트 검색',`<form class="search-form" id="artist-form"><input id="artist-query" aria-label="아티스트 검색어" placeholder="그룹 · 멤버 · 한글 / 영문 이름" maxlength="100"><button class="btn pink">검색</button></form><p class="hint">NMA에 등록된 아티스트 중에서 선택해주세요.<br>(내 아티스트가 없다면 사이트 하단의 계정으로 DM 부탁드립니다♥)</p><div id="artist-results" aria-live="polite"><p class="search-state">아티스트 목록을 불러오는 중…</p></div>`);
- const version=searchVersion;let artists=[];
- const draw=()=>{const results=filterArtists(artists,$('#artist-query').value.trim());$('#artist-results').innerHTML=results.length?results.map((a,i)=>`<button class="result" data-catalog-result="${i}">${a.image?`<img src="${esc(a.image)}" alt="" loading="lazy">`:`<span class="avatar">${esc(a.name.slice(0,2))}</span>`}<span><strong>${esc(a.name)}</strong><small>${esc(a.english||a.aliases[0]||'')}${a.group?' · '+esc(a.group):''}</small></span><span class="result-add">+</span></button>`).join(''):`<p class="search-state">${artists.length?'등록된 아티스트 중 일치하는 이름이 없어요. 다른 이름으로 검색해주세요.':'아티스트 목록을 준비하고 있어요.<br>등록이 완료되면 여기에서 검색하고 선택할 수 있어요.'}</p>`;$('#artist-results').querySelectorAll('[data-catalog-result]').forEach(b=>b.onclick=()=>{const a=results[+b.dataset.catalogResult];close();done({...a,catalogId:a.id})})};
- $('#artist-form').onsubmit=e=>{e.preventDefault();draw()};$('#artist-query').oninput=draw;
- getCatalog().then(list=>{if(version!==searchVersion||!modal.open)return;artists=list;draw()}).catch(()=>{if(version!==searchVersion||!modal.open)return;$('#artist-results').innerHTML='<p class="search-state">목록을 불러오지 못했어요. 창을 닫고 다시 시도해주세요.</p>'});
+
+function artistSearch(done) {
+  open('아티스트 검색', `
+    <form class="search-form" id="artist-form">
+      <input
+        id="artist-query"
+        aria-label="아티스트 검색어"
+        placeholder="그룹 · 멤버 · 한글 / 영문 이름"
+        maxlength="100"
+      >
+      <button class="btn pink" type="submit">검색</button>
+    </form>
+    <p class="hint">
+      NMA에 등록된 아티스트 중에서 선택해주세요.<br>
+      (내 아티스트가 없다면 사이트 하단의 계정으로 DM 부탁드립니다♥)
+    </p>
+    <div id="artist-results" aria-live="polite">
+      <p class="search-state">
+        찾고 싶은 아티스트의 이름을 검색해보세요. ♡
+      </p>
+    </div>
+  `);
+
+  const version = searchVersion;
+  let artists = [];
+
+  const draw = () => {
+    const query = $('#artist-query').value.trim();
+
+    // 검색어가 없으면 목록을 표시하지 않음
+    if (!query) {
+      $('#artist-results').innerHTML =
+        '<p class="search-state">아티스트 이름을 입력해주세요. ♡</p>';
+      return;
+    }
+
+    const results = filterArtists(artists, query);
+
+    $('#artist-results').innerHTML = results.length
+      ? results.map((a, i) => `
+        <button class="result" data-catalog-result="${i}">
+          ${a.image
+            ? `<img src="${esc(a.image)}" alt="" loading="lazy">`
+            : `<span class="avatar">${esc(a.name.slice(0, 2))}</span>`
+          }
+          <span>
+            <strong>${esc(a.name)}</strong>
+            <small>
+              ${esc(a.english || a.aliases[0] || '')}
+              ${a.group ? ' · ' + esc(a.group) : ''}
+            </small>
+          </span>
+          <span class="result-add">+</span>
+        </button>
+      `).join('')
+      : `<p class="search-state">
+          검색 결과가 없어요.<br>
+          다른 이름으로 검색해주세요.
+        </p>`;
+
+    $('#artist-results')
+      .querySelectorAll('[data-catalog-result]')
+      .forEach(b => {
+        b.onclick = () => {
+          const a = results[+b.dataset.catalogResult];
+          close();
+          done({ ...a, catalogId: a.id });
+        };
+      });
+  };
+
+  // Enter 또는 검색 버튼을 눌렀을 때만 검색
+  $('#artist-form').onsubmit = e => {
+    e.preventDefault();
+    draw();
+  };
+
+  // 검색어를 수정하면 이전 결과를 숨김
+  $('#artist-query').oninput = () => {
+    $('#artist-results').innerHTML =
+      '<p class="search-state">Enter 또는 검색 버튼을 눌러주세요.</p>';
+  };
+
+  // 목록은 미리 불러오되 화면에는 출력하지 않음
+  getCatalog()
+    .then(list => {
+      if (version !== searchVersion || !modal.open) return;
+      artists = list;
+    })
+    .catch(() => {
+      if (version !== searchVersion || !modal.open) return;
+      $('#artist-results').innerHTML =
+        '<p class="search-state">목록을 불러오지 못했어요. 창을 닫고 다시 시도해주세요.</p>';
+    });
 }
 let callbackId=0;function itunes(q){return new Promise((resolve,reject)=>{const key='nmaSearch'+(++callbackId),script=document.createElement('script');const clean=()=>{clearTimeout(timer);script.remove();delete window[key]},timer=setTimeout(()=>{clean();reject(Error('timeout'))},12000);window[key]=data=>{clean();resolve(data.results||[])};script.onerror=()=>{clean();reject(Error('network'))};script.src='https://itunes.apple.com/search?'+new URLSearchParams({term:q,entity:'song',media:'music',country:'US',limit:'35',callback:key});document.head.append(script)})}
 function searchDialog(type,initial,done){const artist=false;open(artist?'아티스트 검색':'노래 검색',`<form class="search-form" id="search-form"><input id="query" aria-label="${artist?'아티스트':'노래'} 검색어" placeholder="${artist?'아티스트 명':'곡명 또는 아티스트 이름'}" value="${esc(initial)}" maxlength="100" required><button class="btn pink">검색</button></form><p class="hint">${artist?'Wikipedia에서 검색합니다. 설명과 사진을 확인하고 선택해주세요.':'Apple iTunes에서 곡 정보를 검색합니다.'}</p><div id="results" aria-live="polite"><p class="search-state">${artist?'무대에 초대하고 싶은 아티스트는 누구인가요?':'나만의 시상식에 어울리는 곡을 찾아보세요.'}</p></div><details class="manual"><summary>검색 결과에 없나요? 직접 입력하기</summary><form id="manual-form"><input id="manual-name" aria-label="직접 입력할 이름" maxlength="100" placeholder="${artist?'아티스트 이름':'곡 이름'}" required><button class="btn">직접 추가</button></form></details>`);$('#manual-form').onsubmit=e=>{e.preventDefault();const name=$('#manual-name').value.trim();if(name){close();done({name})}};$('#search-form').onsubmit=async e=>{e.preventDefault();const q=$('#query').value.trim();if(!q)return;const version=++searchVersion;$('#results').innerHTML='<p class="search-state">검색 중입니다…</p>';try{let results;{const tracks=await itunes(q);results=[...new Map(tracks.map(t=>[t.trackId,{name:t.trackName,description:t.artistName,artist:t.artistName,url:t.trackViewUrl}])).values()]}if(version!==searchVersion||!modal.open)return;$('#results').innerHTML=results.length?results.map((a,i)=>`<button class="result" data-result="${i}">${a.image?`<img src="${esc(a.image)}" alt="" referrerpolicy="no-referrer">`:`<span class="avatar">${artist?'✳':'♫'}</span>`}<span><strong>${esc(a.name)}</strong><small>${esc(a.description)}</small></span><span class="result-add">+</span></button>`).join(''):'<p class="search-state">검색 결과가 없어요. 다른 이름이나 영문 이름으로 검색해보세요.<br>아래에서 직접 입력할 수도 있어요.</p>';$('#results').querySelectorAll('[data-result]').forEach(b=>b.onclick=()=>{const result=results[+b.dataset.result];close();done(result)});$('#results').querySelectorAll('img').forEach(img=>img.onerror=()=>img.style.visibility='hidden')}catch{if(version===searchVersion&&modal.open)$('#results').innerHTML='<p class="search-state">검색 서비스에 연결하지 못했어요.<br>잠시 후 다시 검색하거나 아래에서 직접 입력해주세요.</p>'}};if(initial)$('#search-form').requestSubmit()}

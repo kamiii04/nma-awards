@@ -41,7 +41,7 @@ add('마마무','MAMAMOO','솔라/Solar,문별/Moonbyul,휘인/Wheein,화사/Hwa
 add('여자친구','GFRIEND','소원/Sowon,예린/Yerin,은하/Eunha,유주/Yuju,신비/SinB,엄지/Umji','mma17','GFriend');
 add('스트레이 키즈','Stray Kids','방찬/Bang Chan,리노/Lee Know,창빈/Changbin,현진/Hyunjin,한/Han,필릭스/Felix,승민/Seungmin,아이엔/I.N,우진/Woojin/김우진','aaa18','Stray Kids',['스키즈','SKZ']);
 add('투모로우바이투게더','TOMORROW X TOGETHER','수빈/Soobin,연준/Yeonjun,범규/Beomgyu,태현/Taehyun,휴닝카이/Huening Kai/Hueningkai','mma19','Tomorrow X Together',['TXT','투바투']);
-add('엔하이픈','ENHYPEN','정원/Jungwon,희승/Heeseung,제이/Jay,제이크/Jake,성훈/Sunghoon,선우/Sunoo,니키/Ni-ki/Niki','mma21','Enhypen');
+add('엔하이픈','ENHYPEN','정원/Jungwon,제이/Jay,제이크/Jake,성훈/Sunghoon,선우/Sunoo,니키/Ni-ki/Niki','mma21','Enhypen');
 add('에이티즈','ATEEZ','홍중/Hongjoong,성화/Seonghwa,윤호/Yunho,여상/Yeosang,산/San,민기/Mingi,우영/Wooyoung,종호/Jongho','tma22','Ateez');
 add('에스파','aespa','카리나/Karina,지젤/Giselle,윈터/Winter,닝닝/Ningning','tma24','Aespa');
 add('아이브','IVE','안유진/An Yujin/Yujin,가을/Gaeul,레이/Rei,장원영/Jang Wonyoung/Wonyoung,리즈/Liz,이서/Leeseo','mma22','Ive (group)');
