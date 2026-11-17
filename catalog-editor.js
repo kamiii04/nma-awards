@@ -207,7 +207,53 @@ $('#import').onchange=async()=>{const file=$('#import').files[0];if(!file)return
  try{const data=JSON.parse(await file.text()),ids=new Set();if(data.version!==1||!Array.isArray(data.artists))throw Error();const next=data.artists.map(a=>{if(typeof a.id!=='string'||!a.id||ids.has(a.id)||typeof a.name!=='string'||!a.name.trim()||a.name.length>100)throw Error();if(a.image&&(typeof a.image!=='string'||!/^data:image\/(jpeg|png|webp);base64,[A-Za-z0-9+/=]+$/.test(a.image)||a.image.length>600000))throw Error();ids.add(a.id);return{...a,image:a.image||'',aliases:Array.isArray(a.aliases)?a.aliases.filter(x=>typeof x==='string'):[]}});artists=next;dirty=false;reset();render();status(`${artists.length}개 항목을 불러왔어요.`)}catch{status('올바른 artists.json 파일을 선택해주세요. 기존 목록은 유지됩니다.')}finally{$('#import').value=''}
 };
 window.addEventListener('beforeunload',e=>{if(dirty){e.preventDefault();e.returnValue=''}});
-render();status(`${artists.length}개 항목을 불러왔어요. 수정한 목록이 있다면 기존 목록 불러오기로 이어서 작업하세요.`);
+
+/* 가장 최근에 저장된 아티스트 목록 자동 불러오기 */
+async function loadLatestCatalog() {
+  status('최신 아티스트 목록을 불러오는 중...');
+
+  try {
+    const response = await fetch('./dist/artists.json', {
+      cache: 'no-store'
+    });
+
+    if (!response.ok) {
+      throw new Error(`HTTP ${response.status}`);
+    }
+
+    const data = await response.json();
+
+    // 기존 데이터 검증 함수 사용
+    const latestArtists = validateCatalog(data);
+
+    // 저장되지 않은 작업이 있다면 덮어쓰지 않음
+    if (dirty) {
+      status('저장하지 않은 수정 사항이 있어 자동 불러오기를 중단했습니다.');
+      return;
+    }
+
+    artists = latestArtists;
+    reset();
+    render();
+
+    status(
+      `✓ 최신 목록 ${artists.length}개를 자동으로 불러왔어요.`
+    );
+
+  } catch (error) {
+    console.error('최신 목록 불러오기 실패:', error);
+
+    // 실패하면 기존 catalog-seed.js 목록 유지
+    render();
+    status(
+      '최신 JSON을 불러오지 못해 기본 목록을 표시합니다. 프로젝트 파일을 확인해주세요.'
+    );
+  }
+}
+
+// 페이지 시작 시 최신 목록 자동 불러오기
+loadLatestCatalog();
+
 
 document.querySelector('#connect-file').addEventListener('click', () => {
   console.log('JSON 연결 버튼 클릭 확인!');
