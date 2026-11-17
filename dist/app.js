@@ -23,7 +23,28 @@ function renderHome(){app.innerHTML=`<section class="hero"><div><div class="eyeb
   </svg>
 </div><div class="art-year">2026</div><div class="art-tag">NO NOMINEES. JUST YOUR FAVORITES.</div></div></section><div class="marquee">MAKE SOME NOISE ✳ YOUR MUSIC AWARDS ✳ THE STAGE IS YOURS ✳ MAKE SOME NOISE ✳</div><section class="start-grid"><a class="start-card" href="#lineup"><span class="num">01 / CURATE THE NIGHT</span><h3>CREATE LINEUP</h3><p>아티스트를 고르고, 나만의 트로피를 건네세요.</p><span class="arrow">↗</span></a><a class="start-card" href="#cue"><span class="num">02 / DIRECT THE SHOW</span><h3>CREATE CUE SHEET</h3><p>첫 무대부터 피날레까지, 순서를 완성하세요.</p><span class="arrow">↗</span></a></section>`}
 function head(title,kicker,desc,badge){return `<a href="#home" class="back">← BACK TO NMA</a><div class="page-head"><div><span class="eyebrow">${kicker}</span><h1>NMA <span>${title}</span></h1><p>${desc}</p></div><span class="badge">${badge}</span></div>`}
-function renderLineup(){app.innerHTML=`<section class="workspace">${head('LINEUP','01 / CURATE THE NIGHT','당신의 취향이 곧 수상 기준. +를 눌러 주인공을 선택하세요.',`${state.awards.filter(a=>a.artist).length} / ${state.awards.length} SELECTED`)}<div class="lineup">${state.awards.map((a,i)=>`<article class="award-card ${i===0?'grand':''}">${i>=6?`<button class="remove-award" data-remove-award="${a.id}" aria-label="${esc(a.name)} 삭제">×</button>`:''}<button class="portrait" data-award="${a.id}" aria-label="${esc(a.name)} 아티스트 ${a.artist?'변경':'추가'}">${a.artist?imageMarkup(a.artist):`<span class="slot">NMA / ${String(i+1).padStart(2,'0')}</span><span class="plus">+</span>`}${a.artist?`<span class="name">${esc(a.artist.name)}</span>`:''}</button><p class="award-label">${i===0?'<span class="star">✳ </span>':''}${esc(a.name)}</p>${a.artist?.source?`<a class="credit" target="_blank" rel="noopener noreferrer" href="${esc(a.artist.source)}">사진 출처 ↗</a>`:''}${a.artist?`<button class="mini-add" data-clear="${a.id}">선택 해제</button>`:''}</article>`).join('')}<button class="add-card" id="add-award"><span>+</span>시상 부문 추가하기</button></div><div class="bottom-actions"><button class="btn" id="export">↓ 이미지로 저장하기</button><button class="btn primary" id="generate">큐시트 생성하기 ↗</button></div>${sources()}</section>`;app.querySelectorAll('[data-award]').forEach(b=>b.onclick=()=>artistSearch(a=>{state.awards.find(x=>x.id===b.dataset.award).artist=a;sync();save();render()}));$('#add-award').onclick=()=>textDialog('새로운 트로피','시상 부문 이름','',name=>state.awards.push({id:uid(),name,artist:null}));app.querySelectorAll('[data-clear]').forEach(b=>b.onclick=()=>{state.awards.find(a=>a.id===b.dataset.clear).artist=null;sync();save();render()});app.querySelectorAll('[data-remove-award]').forEach(b=>b.onclick=()=>{state.awards=state.awards.filter(a=>a.id!==b.dataset.removeAward);sync();save();render()});$('#generate').onclick=()=>{generate();location.hash='cue'};$('#export').onclick=()=>exportImage('lineup')}
+function renderLineup(){app.innerHTML=`<section class="workspace">${head('LINEUP','01 / CURATE THE NIGHT','당신의 취향이 곧 수상 기준. +를 눌러 주인공을 선택하세요.',`${state.awards.filter(a=>a.artist).length} / ${state.awards.length} SELECTED`)}<div class="lineup">${state.awards.map((a,i)=>`<article class="award-card ${i===0?'grand':''}">${i>=6?`<button class="remove-award" data-remove-award="${a.id}" aria-label="${esc(a.name)} 삭제">×</button>`:''}<button class="portrait" data-award="${a.id}" aria-label="${esc(a.name)} 아티스트 ${a.artist?'변경':'추가'}">${a.artist?imageMarkup(a.artist):`<span class="slot">NMA / ${String(i+1).padStart(2,'0')}</span><span class="plus">+</span>`}${a.artist?`<span class="name">${esc(a.artist.name)}</span>`:''}</button><p class="award-label">${i===0?'<span class="star">✳ </span>':''}${esc(a.name)}</p>${a.artist?.source?`<a class="credit" target="_blank" rel="noopener noreferrer" href="${esc(a.artist.source)}">사진 출처 ↗</a>`:''}${a.artist?`<button class="mini-add" data-clear="${a.id}">선택 해제</button>`:''}</article>`).join('')}<button class="add-card" id="add-award"><span>+</span>시상 부문 추가하기</button></div><div class="bottom-actions"><button class="btn" id="export">↓ 이미지로 저장하기</button><button class="btn primary" id="generate">큐시트 생성하기 ↗</button></div>${sources()}</section>`;
+app.querySelectorAll('[data-award]').forEach(b => {
+  b.onclick = () => {
+    const award = state.awards.find(
+      x => x.id === b.dataset.award
+    );
+
+    const select = item => {
+      award.artist = item;
+      sync();
+      save();
+      render();
+    };
+
+    if (award.name === '올해의 앨범상') {
+      albumSearch(select);
+    } else {
+      artistSearch(select);
+    }
+  };
+});
+$('#add-award').onclick=()=>textDialog('새로운 트로피','시상 부문 이름','',name=>state.awards.push({id:uid(),name,artist:null}));app.querySelectorAll('[data-clear]').forEach(b=>b.onclick=()=>{state.awards.find(a=>a.id===b.dataset.clear).artist=null;sync();save();render()});app.querySelectorAll('[data-remove-award]').forEach(b=>b.onclick=()=>{state.awards=state.awards.filter(a=>a.id!==b.dataset.removeAward);sync();save();render()});$('#generate').onclick=()=>{generate();location.hash='cue'};$('#export').onclick=()=>exportImage('lineup')}
 function newRow(){return{id:uid(),artist:null,award:'',songs:[]}}
 function sync(){if(!state.generated)return;const ids=new Set(state.awards.filter(a=>a.artist).map(a=>a.id));state.rows=state.rows.filter(r=>!r.awardId||ids.has(r.awardId));for(const a of state.awards.filter(a=>a.artist)){let r=state.rows.find(r=>r.awardId===a.id);if(r){r.artist=a.artist;r.award=a.name}else state.rows.push({...newRow(),awardId:a.id,artist:a.artist,award:a.name})}}
 function generate(){if(!state.generated){state.rows.push({...newRow(),artist:{name:'MC'}});state.generated=true;const ordered=[...state.awards.slice(1),state.awards[0]].filter(a=>a?.artist);for(const a of ordered){state.rows.push({...newRow(),awardId:a.id,artist:a.artist,award:a.name});if(a!==state.awards[0])state.rows.push({...newRow(),artist:a.artist})}}else sync();save()}
@@ -54,7 +75,7 @@ function artistSearch(done) {
     </p>
     <div id="artist-results" aria-live="polite">
       <p class="search-state">
-        찾고 싶은 아티스트의 이름을 검색해보세요. ♡
+        찾고 싶은 아티스트의 이름을 검색해보세요.
       </p>
     </div>
   `);
@@ -68,7 +89,7 @@ function artistSearch(done) {
     // 검색어가 없으면 목록을 표시하지 않음
     if (!query) {
       $('#artist-results').innerHTML =
-        '<p class="search-state">아티스트 이름을 입력해주세요. ♡</p>';
+        '<p class="search-state">아티스트 이름을 입력해주세요.</p>';
       return;
     }
 
@@ -131,9 +152,187 @@ function artistSearch(done) {
         '<p class="search-state">목록을 불러오지 못했어요. 창을 닫고 다시 시도해주세요.</p>';
     });
 }
-let callbackId=0;function itunes(q){return new Promise((resolve,reject)=>{const key='nmaSearch'+(++callbackId),script=document.createElement('script');const clean=()=>{clearTimeout(timer);script.remove();delete window[key]},timer=setTimeout(()=>{clean();reject(Error('timeout'))},12000);window[key]=data=>{clean();resolve(data.results||[])};script.onerror=()=>{clean();reject(Error('network'))};script.src='https://itunes.apple.com/search?'+new URLSearchParams({term:q,entity:'song',media:'music',country:'US',limit:'35',callback:key});document.head.append(script)})}
+
+let callbackId = 0;
+
+function itunes(q, entity = 'song') {
+  return new Promise((resolve, reject) => {
+    const key = 'nmaSearch' + (++callbackId);
+    const script = document.createElement('script');
+
+    const clean = () => {
+      clearTimeout(timer);
+      script.remove();
+      delete window[key];
+    };
+
+    const timer = setTimeout(() => {
+      clean();
+      reject(Error('timeout'));
+    }, 12000);
+
+    window[key] = data => {
+      console.log('iTunes 원본 응답:', data);
+      clean();
+      resolve(data.results || []);
+    };
+
+    script.onerror = () => {
+      clean();
+      reject(Error('network'));
+    };
+
+    const params = new URLSearchParams({
+      term: q,
+      entity: entity,
+      media: 'music',
+      country: 'US',
+      limit: entity === 'album' ? '50' : '35',
+      callback: key
+    });
+
+
+    script.src =
+      'https://itunes.apple.com/search?' + params;
+    
+    console.log('실제 iTunes 요청 주소:', script.src);
+
+    document.head.append(script);
+  });
+}
+
 function searchDialog(type,initial,done){const artist=false;open(artist?'아티스트 검색':'노래 검색',`<form class="search-form" id="search-form"><input id="query" aria-label="${artist?'아티스트':'노래'} 검색어" placeholder="${artist?'아티스트 명':'곡명 또는 아티스트 이름'}" value="${esc(initial)}" maxlength="100" required><button class="btn pink">검색</button></form><p class="hint">${artist?'Wikipedia에서 검색합니다. 설명과 사진을 확인하고 선택해주세요.':'Apple iTunes에서 곡 정보를 검색합니다.'}</p><div id="results" aria-live="polite"><p class="search-state">${artist?'무대에 초대하고 싶은 아티스트는 누구인가요?':'나만의 시상식에 어울리는 곡을 찾아보세요.'}</p></div><details class="manual"><summary>검색 결과에 없나요? 직접 입력하기</summary><form id="manual-form"><input id="manual-name" aria-label="직접 입력할 이름" maxlength="100" placeholder="${artist?'아티스트 이름':'곡 이름'}" required><button class="btn">직접 추가</button></form></details>`);$('#manual-form').onsubmit=e=>{e.preventDefault();const name=$('#manual-name').value.trim();if(name){close();done({name})}};$('#search-form').onsubmit=async e=>{e.preventDefault();const q=$('#query').value.trim();if(!q)return;const version=++searchVersion;$('#results').innerHTML='<p class="search-state">검색 중입니다…</p>';try{let results;{const tracks=await itunes(q);results=[...new Map(tracks.map(t=>[t.trackId,{name:t.trackName,description:t.artistName,artist:t.artistName,url:t.trackViewUrl}])).values()]}if(version!==searchVersion||!modal.open)return;$('#results').innerHTML=results.length?results.map((a,i)=>`<button class="result" data-result="${i}">${a.image?`<img src="${esc(a.image)}" alt="" referrerpolicy="no-referrer">`:`<span class="avatar">${artist?'✳':'♫'}</span>`}<span><strong>${esc(a.name)}</strong><small>${esc(a.description)}</small></span><span class="result-add">+</span></button>`).join(''):'<p class="search-state">검색 결과가 없어요. 다른 이름이나 영문 이름으로 검색해보세요.<br>아래에서 직접 입력할 수도 있어요.</p>';$('#results').querySelectorAll('[data-result]').forEach(b=>b.onclick=()=>{const result=results[+b.dataset.result];close();done(result)});$('#results').querySelectorAll('img').forEach(img=>img.onerror=()=>img.style.visibility='hidden')}catch{if(version===searchVersion&&modal.open)$('#results').innerHTML='<p class="search-state">검색 서비스에 연결하지 못했어요.<br>잠시 후 다시 검색하거나 아래에서 직접 입력해주세요.</p>'}};if(initial)$('#search-form').requestSubmit()}
-function songSearch(initial,done){searchDialog('song',initial,done)}
+function songSearch(initial,done) {
+  searchDialog('song', initial, done);
+}
+
+function albumSearch(done) {
+  open('올해의 앨범상 · 앨범 검색', `
+    <form class="search-form" id="album-form">
+      <input
+        id="album-query"
+        placeholder="아티스트 이름을 입력하세요"
+        aria-label="앨범 아티스트 검색"
+        maxlength="100"
+        required
+      >
+      <button class="btn pink" type="submit">검색</button>
+    </form>
+
+    <p class="hint">
+      Apple iTunes에서 발매 앨범을 검색합니다.<br>
+      원하는 앨범을 선택해주세요.
+    </p>
+
+    <div id="album-results" aria-live="polite">
+      <p class="search-state">
+        아티스트 이름을 검색해주세요. 
+      </p>
+    </div>
+  `);
+
+  $('#album-form').onsubmit = async e => {
+    e.preventDefault();
+
+    const query = $('#album-query').value.trim();
+    if (!query) return;
+
+    const version = ++searchVersion;
+
+    $('#album-results').innerHTML =
+      '<p class="search-state">앨범 검색 중…</p>';
+
+    try {
+      const data = await itunes(query, 'album');
+      console.log('iTunes 앨범 검색 결과:', data);
+
+      if (version !== searchVersion || !modal.open) return;
+
+      const albums = [
+        ...new Map(
+          data
+            .filter(a => a.collectionId && a.collectionName)
+            .map(a => [a.collectionId, a])
+        ).values()
+      ];
+
+      if (!albums.length) {
+        $('#album-results').innerHTML = `
+          <p class="search-state">
+            검색 결과가 없어요.<br>
+            다른 아티스트 이름으로 검색해주세요.
+          </p>
+        `;
+        return;
+      }
+
+      $('#album-results').innerHTML = albums.map((a, i) => {
+        const image = a.artworkUrl100 || '';
+        const release = a.releaseDate
+          ? a.releaseDate.slice(0, 10)
+          : '';
+
+        return `
+          <button
+            class="result"
+            type="button"
+            data-album="${i}"
+          >
+            ${image
+              ? `<img src="${esc(image)}"
+                      alt=""
+                      loading="lazy"
+                      referrerpolicy="no-referrer">`
+              : `<span class="avatar">♫</span>`
+            }
+
+            <span>
+              <strong>${esc(a.collectionName)}</strong>
+              <small>
+                ${esc(a.artistName)}
+                ${release ? ' · ' + esc(release) : ''}
+              </small>
+            </span>
+
+            <span class="result-add">+</span>
+          </button>
+        `;
+      }).join('');
+
+      $('#album-results')
+        .querySelectorAll('[data-album]')
+        .forEach(button => {
+          button.onclick = () => {
+            const album = albums[+button.dataset.album];
+
+            const selected = {
+              name: album.collectionName,
+              artist: album.artistName,
+              image: album.artworkUrl100 || '',
+              url: album.collectionViewUrl || '',
+              albumId: album.collectionId,
+              releaseDate: album.releaseDate || '',
+              type: 'album'
+            };
+
+            close();
+            done(selected);
+          };
+        });
+
+    } catch (error) {
+      if (version !== searchVersion || !modal.open) return;
+
+      $('#album-results').innerHTML = `
+        <p class="search-state">
+          앨범 검색에 실패했어요.<br>
+          잠시 후 다시 검색해주세요.
+        </p>
+      `;
+    }
+  };
+}
+
 async function exportImage(type){toast('이미지를 만들고 있어요…');await document.fonts.ready;const c=document.createElement('canvas'),ctx=c.getContext('2d'),W=1080;const awards=state.awards,credits=[...new Map(awards.filter(a=>a.artist?.source).map(a=>[a.artist.source,a.artist])).values()];const creditLines=type==='lineup'?credits.length:0;const rowHeights=state.rows.map(r=>Math.max(85,r.songs.length*35+25,Math.ceil((r.artist?.name.length||0)/12)*30+25,Math.ceil(r.award.length/12)*30+25));c.width=W;c.height=type==='lineup'?340+(1+Math.ceil(Math.max(0,awards.length-1)/3))*350+creditLines*36+90:350+rowHeights.reduce((a,b)=>a+b,0)+90;ctx.fillStyle='#101010';ctx.fillRect(0,0,W,c.height);ctx.fillStyle='#ff73b9';ctx.font='900 85px "Barlow Condensed", sans-serif';ctx.fillText('NMA 2026',60,110);ctx.fillStyle='#f6f4ed';ctx.font='800 65px "Barlow Condensed", sans-serif';ctx.fillText(type==='lineup'?'YOUR DREAM LINEUP':'YOUR CUE SHEET',60,185);ctx.font='22px "Noto Sans KR", sans-serif';ctx.fillStyle='#aaa';ctx.fillText('나만의 뮤직 어워드 · YOUR TASTE. YOUR STAGE.',60,232);
 function wrap(text,x,y,maxWidth,lineHeight=30){let line='';for(const ch of String(text)){if(ctx.measureText(line+ch).width>maxWidth){ctx.fillText(line,x,y);line=ch;y+=lineHeight}else line+=ch}ctx.fillText(line,x,y)}
 if(type==='lineup'){for(let i=0;i<awards.length;i++){const a=awards[i],col=i===0?1:(i-1)%3,row=i===0?0:1+Math.floor((i-1)/3),x=60+col*330,y=285+row*350;ctx.fillStyle='#242424';ctx.fillRect(x,y,300,260);let loaded=false;if(a.artist?.image){try{const img=await new Promise((resolve,reject)=>{const im=new Image();const t=setTimeout(()=>reject(Error('timeout')),5000);im.crossOrigin='anonymous';im.onload=()=>{clearTimeout(t);resolve(im)};im.onerror=()=>{clearTimeout(t);reject(Error('image'))};im.src=a.artist.image});const s=Math.max(300/img.width,260/img.height);ctx.save();ctx.beginPath();ctx.rect(x,y,300,260);ctx.clip();ctx.drawImage(img,x+(300-img.width*s)/2,y+(260-img.height*s)/2,img.width*s,img.height*s);ctx.restore();loaded=true}catch{}}if(!loaded){ctx.fillStyle='#ff73b9';ctx.font='60px sans-serif';ctx.fillText(a.artist?.name.slice(0,2)||'✳',x+95,y+150)}ctx.fillStyle='#e9ff63';ctx.font='bold 22px "Noto Sans KR", sans-serif';wrap(a.name,x,y+293,300,26);ctx.fillStyle='#eee';ctx.font='20px "Noto Sans KR", sans-serif';wrap(a.artist?.name||'TO BE ANNOUNCED',x,y+325,300,25)}ctx.fillStyle='#999';ctx.font='14px sans-serif';const y0=c.height-creditLines*36-60;credits.forEach((a,i)=>{ctx.fillText(`${a.name} · 사진 저작자 / 라이선스:`,60,y0+i*36);ctx.fillText(decodeURIComponent(a.source),60,y0+i*36+17)})}else{const xs=[60,150,390,650,1020];let y=290;ctx.fillStyle='#e9ff63';ctx.fillRect(60,y,960,50);ctx.fillStyle='#111';ctx.font='bold 23px "Noto Sans KR", sans-serif';['순서','아티스트','시상','무대'].forEach((s,i)=>ctx.fillText(s,xs[i]+10,y+33));y+=50;state.rows.forEach((r,i)=>{const h=rowHeights[i];ctx.strokeStyle='#555';for(let j=0;j<4;j++)ctx.strokeRect(xs[j],y,xs[j+1]-xs[j],h);ctx.fillStyle='#eee';ctx.font='21px "Noto Sans KR", sans-serif';wrap(String(i+1),70,y+35,70);wrap(r.artist?.name||'',160,y+35,220);wrap(r.award,400,y+35,230);r.songs.forEach((s,j)=>{ctx.fillText(`${j+1}. ${s.name}`,660,y+35+j*35,350)});y+=h})}ctx.fillStyle='#ff73b9';ctx.font='18px "Barlow Condensed", sans-serif';ctx.fillText('NMA ✳ FAN-MADE MUSIC AWARDS',60,c.height-25);c.toBlob(blob=>{if(!blob){toast('이미지를 저장하지 못했어요. 다시 시도해주세요.');return}const url=URL.createObjectURL(blob);const a=document.createElement('a');a.href=url;a.download=`NMA-2026-${type}.png`;a.click();setTimeout(()=>URL.revokeObjectURL(url),60000);toast('이미지를 저장했어요. 다운로드 목록을 확인해주세요.')},'image/png')}
